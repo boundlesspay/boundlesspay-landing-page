@@ -19,21 +19,21 @@
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
       <div class="container switch pt-5">
-        <h2 class="font-weight-bold pt-3 ml-2" style="font-size: 40px">Free crypto wallets for all your <br> international transactions.</h2>
+        <h2 class="font-weight-bold pt-3 ml-2" style="font-size: 37px">Free crypto wallets for all your <br> international transactions.</h2>
         <div class="row">
           <div class="col-md-6 px-4 ">
             <div class="mt-5 ">
-              <h3 class="font-weight-bold">Get paid by foreign employers and clients</h3>
+              <h4 class="font-weight-bold">Get paid by foreign employers and clients</h4>
               <p>Use your crypto wallet to receive USDT and other cryptos.
                 Cash out to any bank account globally like a local.</p>
             </div>
             <div class="mt-5">
-              <h3 class="font-weight-bold">Instant currency exchange</h3>
+              <h4 class="font-weight-bold">Instant currency exchange</h4>
               <p>Enjoy quick and efficient online foreign exchange transactions.
                 Say goodbye to bank queues and disappointments.</p>
             </div>
             <div class="mt-5">
-              <h3 class="font-weight-bold">Send and receive money quickly</h3>
+              <h4 class="font-weight-bold">Send and receive money quickly</h4>
               <p>Enjoy fast global money transfer with your easy to use wallet on BoundlessPay</p>
             </div>
           </div>
@@ -46,7 +46,7 @@
     </div>
 
     <div class="container mt-5 pt-5">
-      <h2 class="font-weight-bold" style="font-size: 40px">How to send money globally <br> using BoundlessPay</h2>
+      <h2 class="font-weight-bold" style="font-size: 37px">How to send money globally <br> using BoundlessPay</h2>
       <p>Opening an account has never been this seamless</p>
 
       <div class="row mt-5">
@@ -134,6 +134,6 @@ export default {
   color: #000000;
 
   opacity: 0.6;
-  font-size: 17px;
+  font-size: 16px;
 }
 </style>

@@ -25,13 +25,13 @@
 
    <div class="container mt-4 pt-3">
      <div class="global text-center ml12">GLOBAL REMITTANCES</div>
-     <h1 class="text-center font-weight-bold mt-3" style="font-size: 40px">A platform for global remittances <br> across the whole world</h1>
+     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px">A platform for global remittances <br> across the whole world</h2>
 
      <div class="row mt-4 pt-3">
        <div class="col-md-4 ">
           <div class="card-box pt-5 pb-4 px-3 text-left">
             <img src="~assets/img/secure-crypto.svg" class="img-fluid" alt="">
-            <h4 class="font-weight-bold pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto wallet</h4>
+            <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto wallet</h4>
             <div class="sub-text pt-2">Track and manage your crypto portfolio from any device you own.</div>
             <div class="mt-3">
               <nuxt-link to="/schools"  >
@@ -44,7 +44,7 @@
        <div class="col-md-4">
          <div class="card-box pt-5 pb-4 px-3 text-left">
            <img src="~assets/img/coin-swap.svg" class="img-fluid" alt="">
-           <h4 class="font-weight-bold pt-4 pl-1">Coin swap</h4>
+           <h4 class=" pt-4 pl-1">Coin swap</h4>
            <div class="sub-text pt-2">Swap from one cryptocurrencies to another seamlessly with ease and peace of mind.</div>
            <div class="mt-3">
              <nuxt-link to="/schools"  >
@@ -57,7 +57,7 @@
        <div class="col-md-4" >
          <div class="card-box pt-5 pb-4 px-3 text-left">
            <img src="~assets/img/borderless-payment.svg" class="img-fluid" alt="">
-           <h4 class="font-weight-bold pt-4 pl-1">Borderless payments</h4>
+           <h4 class=" pt-4 pl-1">Borderless payments</h4>
            <div class="sub-text pt-2">Send money directly to any bank account globally without liquidating your digital assets.</div>
            <div class="mt-3">
              <nuxt-link to="/schools"  >
@@ -86,7 +86,7 @@
 
    <div class="container mt-5">
      <div class="global text-center pt-2">CRYPTO</div>
-     <h2 class="text-center font-weight-bold " style="font-size: 40px">Manage your Portfolio</h2>
+     <h2 class="text-center font-weight-bold " style="font-size: 38px">Manage your Portfolio</h2>
    </div>
 
    <div class="container px-5 pt-5 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;">
@@ -98,7 +98,7 @@
 
        <div class="col-md-6" v-if="showWalletAddressForm">
           <div class="pl-3 mt-5">
-            <h2 class="" style="font-size: 40px">Buy & Sell Crypto</h2>
+            <h2 class="" style="font-size: 35px">Buy & Sell Crypto</h2>
             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
               They get cash flow on the accounts for up to 12 months,
@@ -112,7 +112,7 @@
 
        <div class="col-md-6" v-if="showEmailForm">
           <div class="pl-3 mt-5">
-            <h2 style="font-size: 40px">Send & Recieve Crypto</h2>
+            <h2 style="font-size: 35px">Send & Recieve Crypto</h2>
             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
               They get cash flow on the accounts for up to 12 months,
@@ -126,7 +126,7 @@
 
        <div class="col-md-6" v-if="showPhoneForm">
           <div class="pl-3 mt-5">
-            <h2 style="font-size: 40px">Get Realtime Updates</h2>
+            <h2 style="font-size: 35px">Get Realtime Updates</h2>
             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
               They get cash flow on the accounts for up to 12 months,
@@ -140,7 +140,7 @@
 
        <div class="col-md-6" v-if="showSecurityForm">
          <div class="pl-3 mt-5">
-           <h2 style="font-size: 40px">Enjoy secure escrow services</h2>
+           <h2 style="font-size: 35px">Enjoy secure escrow services</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
            <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
              They get cash flow on the accounts for up to 12 months,
@@ -167,7 +167,7 @@
 
        <div class="col-md-6" v-if="showWalletAddressForm">
          <div class="pl-3 mt-5">
-           <h2 class="" style="font-size: 40px">Grow Your Money</h2>
+           <h2 class="" style="font-size: 35px">Grow Your Money</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Inflow Finance, using Mono Connect, allows thousands of users to understand and manage their finances across multiple accounts all in one place.</p>
            <p class="pt-2" style="color: #000000;opacity: 0.8;">Just by linking their financial accounts to the Inflow app
              using Mono, Inflow's users can now get a better view of their financial health by monitoring real-time balances
@@ -180,7 +180,7 @@
 
        <div class="col-md-6" v-if="showEmailForm">
          <div class="pl-3 mt-5">
-           <h2 style="font-size: 40px"  data-aos="fade-right"
+           <h2 style="font-size: 35px"  data-aos="fade-right"
                data-aos-offset="100"
                data-aos-easing="ease-in-sine">Access Loans Faster</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
@@ -195,7 +195,7 @@
 
        <div class="col-md-6" v-if="showPhoneForm">
          <div class="pl-3 mt-5">
-           <h2 style="font-size: 40px">Earn with ease</h2>
+           <h2 style="font-size: 35px">Earn with ease</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
            <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
              They get cash flow on the accounts for up to 12 months,
@@ -208,7 +208,7 @@
 
        <div class="col-md-6" v-if="showSecurityForm">
          <div class="pl-3 mt-5">
-           <h2 style="font-size: 40px">Stake</h2>
+           <h2 style="font-size: 35px">Stake</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
            <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
              They get cash flow on the accounts for up to 12 months,
@@ -228,8 +228,8 @@
        </div>
 
        <div class="col-md-6 mt-4">
-         <span style="color: #003399;">BoundlessPay Card</span>
-         <h1 class="py-1 ml13">Card that solves <br> everything</h1>
+         <span style="color: #003399;" class="ml13">BoundlessPay Card</span>
+         <h2 class="py-1 " style="font-size: 45px">Card that solves <br> everything</h2>
          <p>Get the freedom to make quick and easy payments, earn <br> money, spend smart, and save more.</p>
          <div class="d-flex mt-5">
            <div>

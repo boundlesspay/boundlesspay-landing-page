@@ -20,21 +20,21 @@
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
       <div class="container switch pt-5">
-        <h2 class="font-weight-bold pt-3"  style="font-size: 40px">Switch fast between currencies at the <br> best rate</h2>
+        <h2 class=" pt-3"  style="font-size: 38px">Switch fast between currencies at the <br> best rate</h2>
         <div class="row">
           <div class="col-md-6 px-4 pt-lg-3">
             <div class="mt-5 pt-4">
-              <h3 class="font-weight-bold">Convert your crypto in seconds</h3>
+              <h4 class="">Convert your crypto in seconds</h4>
               <p>Receive payments in BTC, BNB and SOL and convert them instantly.
                 Our platform is secure and simple, jsut the way want</p>
             </div>
             <div class="mt-5">
-              <h3 class="font-weight-bold">No hidden fees. Competitive market rates.</h3>
+              <h4 class="">No hidden fees. Competitive market rates.</h4>
               <p>Convert your BTC to USDT, MATIC, BNB or any other
                 cryptocurrencies within seconds with no hidden fees.</p>
             </div>
             <div class="mt-5">
-              <h3 class="font-weight-bold">Seamless funding and withdrawal</h3>
+              <h4 class="">Seamless funding and withdrawal</h4>
               <p>We offer multiple payment options to fund your account for different currencies.
                 You can also withdraw to your virtual foreign accounts or bank accounts.</p>
             </div>
@@ -48,14 +48,14 @@
     </div>
 
     <div class="container mt-5 pt-5">
-      <h2 class="font-weight-bold"  style="font-size: 40px">How to convert crypto in <br> seconds</h2>
+      <h2 class=""  style="font-size: 37px">How to convert crypto in <br> seconds</h2>
       <p>Opening an account has never been this seamless</p>
 
       <div class="row mt-5">
         <div class="col-md-4">
         <div class="convert-card p-4">
           <img src="~assets/img/Group 298.png" class="img-fluid pt-2" width="65" alt="">
-          <h4 class="pt-4 font-weight-bold">Enter the amount</h4>
+          <h5 class="pt-4">Enter the amount</h5>
           <p class="pt-2">Input the amount you want to convert <br> into the input box</p>
         </div>
       </div>
@@ -63,7 +63,7 @@
         <div class="col-md-4">
           <div class="convert-card p-4">
             <img src="~assets/img/Group 299.png" class="img-fluid pt-2" width="65" alt="">
-            <h4 class="pt-4 font-weight-bold">Select your crypto</h4>
+            <h5 class="pt-4 ">Select your crypto</h5>
             <p class="pt-2">Input the amount you want to convert <br> into the input box</p>
           </div>
         </div>
@@ -71,7 +71,7 @@
         <div class="col-md-4">
           <div class="convert-card p-4">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
-            <h4 class="pt-4 font-weight-bold">Complete conversion</h4>
+            <h5 class="pt-4 font-weight-bold">Complete conversion</h5>
             <p class="pt-2">Input the amount you want to convert <br> into the input box</p>
           </div>
         </div>
@@ -135,6 +135,6 @@ export default {
   color: #000000;
 
   opacity: 0.6;
-  font-size: 17px;
+  font-size: 16px;
 }
 </style>

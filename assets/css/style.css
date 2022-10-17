@@ -30,8 +30,10 @@ html {
   overflow-x: hidden!Important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Bold", sans-serif!important;
+
+
+h1, h4, h2, h3, h5, h6{
+  font-family: "semiBold"!Important;
 }
 
 @font-face {
@@ -59,6 +61,14 @@ h1, h2, h3, h4, h5, h6 {
 @font-face {
   font-family: "semi-Bold";
   src: url("../fonts/SF-Pro-Rounded-Medium.otf");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "semiBold";
+  src: url("../fonts/SF-Pro-Rounded-Semibold.otf");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
