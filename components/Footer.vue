@@ -2,7 +2,7 @@
   <footer>
     <div class="container pt-5 pb-2 pb-md-5">
       <div class="row">
-        <div class="col-lg-4  col-sm-4 col-md-4 mb-4">
+        <div class="col-lg-4  col-sm-4 col-md-4">
 
           <div class="row">
             <div class="col-12 col-sm-12">
@@ -15,14 +15,24 @@
                 <p>403 Oxford Building, Jumeriah Village Circle (JVC), Dubai, United Arab Emirates.</p>
                 <p>6th Floor 2 Kingdom Street, London, United Kingdom, W2 6JP</p>
               </div>
+
+             <div class="d-flex mt-4">
+               <p>Insured & Secured by</p>
+               <p class="ml-4">Audited by</p>
+             </div>
+              <div class="d-flex  ml-n2">
+                <img src="~assets/img/cybavo.svg" class="img-fluid" alt="">
+               <div class="ml-4 text-white mt-1"> <img src="~assets/img/image20.svg" class="img-fluid" alt=""> <span class="ml-2" >Immune bytes</span></div>
+             </div>
               <!--              <img class="img-fluid ml-n2" style="max-height: 150px " src="~/assets/images/SAFE_GATE__CBN_AN_NDIC.png" alt="">-->
             </div>
           </div>
         </div>
-        <div class="col-lg-7 col-sm-8 col-md-8 ml-5 mt-4 left-web" >
+
+        <div class="col-lg-7 col-sm-8 col-md-8 ml-5 mt-4 left-web justify-content-end ml-auto" >
           <div class="row">
             <div class="col-sm-4 col-6 mb-2">
-              <h5 class="mb-4">Company</h5>
+              <h5 class="mb-4">About</h5>
               <div>
                 <p>
                   <n-link to="/about-us">About Us</n-link>
@@ -36,7 +46,7 @@
               </div>
             </div>
 
-            <div class="col-sm-3 col-6 mb-2">
+            <div class="col-sm-3 col-6">
               <h5 class="mb-4">Support</h5>
               <div>
                 <p>
@@ -52,7 +62,7 @@
               </div>
             </div>
 
-            <div class="col-sm-5 col-6 mb-2">
+            <div class="col-sm-5 col-6 ">
               <h5 class="mb-4">Legal</h5>
               <div>
                 <p>
@@ -71,7 +81,7 @@
 
       </div>
     </div>
-    <div class=" container ">
+    <div class=" container">
       <div class="container half-black lg">
 
       </div>
@@ -83,7 +93,11 @@
       </div>
 
       <div class="d-lg-flex half-black justify-content-end ml-auto mt-lg-n3 pb-5">
-
+        <img src="~assets/img/telegram.svg" alt="">
+        <img src="~assets/img/twitter.svg" alt="">
+        <img src="~assets/img/instagram.svg" alt="">
+        <img src="~assets/img/facebook.svg" alt="">
+        <img src="~assets/img/linkden.svg" alt="">
       </div>
     </div>
   </footer>
@@ -112,6 +126,10 @@ footer a {
   color: inherit;
 }
 
+p {
+  font-family: "Light"!important;
+}
+
 .lg {
   opacity: 0.3;
   border: 1px solid #FFFFFF;
@@ -127,8 +145,8 @@ footer a {
   }
 }
 
-.half-black a {
-  padding: 0px 15px 0px;
+.half-black img{
+  padding: 0px 8px 0px;
 }
 
 footer {
@@ -143,7 +161,7 @@ footer h5{
 }
 
 footer p{
-  font-size: 14px;
+  font-size: 15px;
   line-height: 28px;
   color: #FFFFFF;
   opacity: 0.6;

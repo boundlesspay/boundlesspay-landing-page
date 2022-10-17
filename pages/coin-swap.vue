@@ -96,7 +96,8 @@
             <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
           </div>
         </div>
-        <div class="col-md-5 pb-5 justify-content-end ml-auto">
+        <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
+             data-aos-offset="0">
           <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
         </div>
       </div>
@@ -106,7 +107,13 @@
 
 <script>
 export default {
-  name: "coin-swap"
+  name: "coin-swap",
+  mounted() {
+    AOS.init({
+      offset: 100,
+      duration: 1000,
+    });
+  }
 }
 </script>
 

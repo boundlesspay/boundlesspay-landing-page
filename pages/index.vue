@@ -54,7 +54,7 @@
          </div>
        </div>
 
-       <div class="col-md-4">
+       <div class="col-md-4" >
          <div class="card-box pt-5 pb-4 px-3 text-left">
            <img src="~assets/img/borderless-payment.svg" class="img-fluid" alt="">
            <h4 class="font-weight-bold pt-4 pl-1">Borderless payments</h4>
@@ -77,7 +77,8 @@
             and debit card allows for the storage and spending of digital currencies across merchants worldwide. In addition, you can use one app to access crypto loans,
             pay utilities, invest in digital currencies, and access other unique decentralized finance features.</p>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5" data-aos="fade-up-left"
+             data-aos-duration="1500">
           <img src="~assets/img/bond.png" alt="" class=" img">
         </div>
       </div>
@@ -119,7 +120,7 @@
           </div>
        </div>
 
-       <div class="col-md-6 " v-if="showEmailForm">
+       <div class="col-md-6 " v-if="showEmailForm" data-aos="zoom-in-left">
          <img src="~assets/img/Buy-and-sell.png" class="buy-sell" width="400" alt="" >
        </div>
 
@@ -179,7 +180,9 @@
 
        <div class="col-md-6" v-if="showEmailForm">
          <div class="pl-3 mt-5">
-           <h2 style="font-size: 40px">Access Loans Faster</h2>
+           <h2 style="font-size: 40px"  data-aos="fade-right"
+               data-aos-offset="100"
+               data-aos-easing="ease-in-sine">Access Loans Faster</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
            <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
              They get cash flow on the accounts for up to 12 months,
@@ -260,7 +263,8 @@
            <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
          </div>
        </div>
-       <div class="col-md-5 pb-5 justify-content-end ml-auto">
+       <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
+            data-aos-offset="0">
          <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
        </div>
      </div>
@@ -289,7 +293,6 @@
 </template>
 
 <script>
-import { gsap } from "gsap";
 export default {
 
   data() {
@@ -303,6 +306,11 @@ export default {
   },
 
   mounted() {
+    AOS.init({
+      offset: 100,
+      duration: 1000,
+    });
+
     var textWrapper = document.querySelector('.ml12');
     textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 

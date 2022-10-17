@@ -19,24 +19,24 @@
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
       <div class="container switch pt-5">
-        <h2 class="font-weight-bold pt-3 text-center" style="font-size: 40px">How it works</h2>
+        <h2 class="font-weight-bold pt-3 text-center ml12" style="font-size: 40px">How it works</h2>
         <div class="row mt-4">
           <div class="col-md-6 mt-4 justify-content-start mr-auto ml-3">
             <img src="~assets/img/how-it-works.png" class="img-fluid" width="550" alt="">
           </div>
 
           <div class="col-md-5 mr-4 pt-lg-3 justify-content-end ml-auto">
-            <div class="mt-5 pt-4">
-              <h4 class="font-weight-bold">1. &nbsp; Open an account</h4>
+            <div class="mt-5 pt-4" data-aos="fade-left" data-aos-delay="20">
+              <h4 class="font-weight-bold" >1. &nbsp; Open an account</h4>
               <p>Fund your wallet with any crypto or fiat currency of your choice. </p>
             </div>
 
-            <div class="mt-5">
+            <div class="mt-5" data-aos="fade-left" data-aos-delay="150">
               <h4 class="font-weight-bold">2. Purchase a virtual card</h4>
               <p>Purchase cards with your crypto balance and make payments at the best market rate.</p>
             </div>
 
-            <div class="mt-5">
+            <div class="mt-5" data-aos="fade-left" data-aos-delay="300">
               <h4 class="font-weight-bold">3. Pay with your card</h4>
               <p>Pay for anything online with your virtual cards on popular websites such as Apple music, Netflix, Amazon. E.t.c</p>
             </div>
@@ -91,7 +91,7 @@
 
     <div class=" pb-5" style="background: rgba(139, 199, 255, 0.11); margin-top: 90px">
       <div class="container switch pt-5">
-        <h2 class="font-weight-bold pt-3 text-center" style="font-size: 40px">Switch fast between currencies <br> at the best rate</h2>
+        <h2 class="font-weight-bold pt-3 text-center " style="font-size: 40px">Switch fast between currencies <br> at the best rate</h2>
         <div class="row mt-5">
 
           <div class="col-md-5 mr-4 pt-lg-5 mt-5 justify-content-end ml-auto">
@@ -101,7 +101,7 @@
               virtual cards with crypto. Our platform is secure and simple, just the way you want.</p>
           </div>
 
-          <div class="col-md-6 mt-4 justify-content-start mr-auto ">
+          <div class="col-md-6 mt-4 justify-content-start mr-auto "  data-aos="fade-left">
             <img src="~assets/img/earn-crypto.png" class="img-fluid" width="550" alt="">
           </div>
 
@@ -113,9 +113,9 @@
           </div>
 
           <div class="col-md-5 mr-4 pt-lg-5 mt-5 justify-content-end ml-auto">
-            <h2>Switch between cards</h2>
+            <h2  data-aos="fade-left" data-aos-delay="20">Switch between cards</h2>
 
-            <p class="pt-3">Easily switch between local and foreign virtual card types
+            <p class="pt-3"  data-aos="fade-left" data-aos-delay="120">Easily switch between local and foreign virtual card types
               or switch to physical debit card at anytime</p>
           </div>
 
@@ -173,7 +173,8 @@
             <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
           </div>
         </div>
-        <div class="col-md-5 pb-5 justify-content-end ml-auto">
+        <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
+             data-aos-offset="0">
           <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
         </div>
       </div>
@@ -183,7 +184,35 @@
 
 <script>
 export default {
-  name: "coin-swap"
+  name: "coin-swap",
+
+  mounted() {
+    AOS.init({
+      offset: 100,
+      duration: 1000,
+    });
+
+    var textWrapper = document.querySelector('.ml12');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({loop: true})
+      .add({
+        targets: '.ml12 .letter',
+        translateX: [40,0],
+        translateZ: 0,
+        opacity: [0,1],
+        easing: "easeOutExpo",
+        duration: 1200,
+        delay: (el, i) => 500 + 30 * i
+      }).add({
+      targets: '.ml12 .letter',
+      translateX: [0,-30],
+      opacity: [1,0],
+      easing: "easeInExpo",
+      duration: 1100,
+      delay: (el, i) => 100 + 30 * i
+    });
+  }
 }
 </script>
 

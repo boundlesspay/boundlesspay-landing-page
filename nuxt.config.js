@@ -25,6 +25,7 @@ export default {
       { src: "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js" },
       { src: "https://unpkg.co/gsap@3/dist/gsap.min.js" },
       { src: "https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js" },
+      { src: "https://unpkg.com/aos@2.3.1/dist/aos.js" },
 
     ],
   },
@@ -32,6 +33,7 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     "~/assets/css/style.css",
+    'aos/dist/aos.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

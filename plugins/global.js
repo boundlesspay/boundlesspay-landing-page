@@ -6,3 +6,5 @@ import 'animate.css';
 //without this line, PixiPlugin and MotionPathPlugin may get dropped by your bundler (tree shaking)...
 gsap.registerPlugin(PixiPlugin, MotionPathPlugin);
 
+
+

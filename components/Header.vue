@@ -40,8 +40,8 @@
                           <div>
                             <img src="~assets/img/coin-swap-img.svg" alt="">
                           </div>
-                          <div class="ml-3">
-                            <h6>Coin swap</h6>
+                          <div class="ml-3 mt-n1">
+                            <div style="font-size: 19px">Coin swap</div>
                             <span>Recieve payments from anywhere and <br>
                           convert to cryptocurrencies or stable coins</span>
                           </div>
@@ -53,8 +53,8 @@
                           <div>
                             <img src="~assets/img/crypto-card-icon.svg" alt="">
                           </div>
-                          <div class="ml-3">
-                            <h6>Crypto Cards</h6>
+                          <div class="ml-3 mt-n1">
+                            <div style="font-size: 19px">Crypto Cards</div>
                             <span>Make exclusive payments online with your virtual <br> crypto cards</span>
                           </div>
                         </div>
@@ -65,8 +65,8 @@
                           <div>
                             <img src="~assets/img/transfer-money-icon.svg" alt="">
                           </div>
-                          <div class="ml-3">
-                            <h6>Money Transfer</h6>
+                          <div class="ml-3 mt-n1">
+                            <div style="font-size: 19px">Money Transfer</div>
                             <span>Send money globally using crypto.</span>
                           </div>
                         </div>
