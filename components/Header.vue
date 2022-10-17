@@ -16,7 +16,7 @@
                 <nuxt-link to="/about-us" class="ml-1">About</nuxt-link>
               </div>
               <div class="d-flex ml-3">
-                <div  class="d-flex top-btn mt-n1">
+                <div  class="d-flex top-btn mt-n2">
                   <b-dropdown
                     variant="empty"
                     size="sm"
@@ -97,7 +97,7 @@
                           </a>
               <div>
                 <nuxt-link to="/schools"  >
-                  <button class="button btn w-100 mb-2 mt-1 text-white">Sign up</button>
+                  <button class="button btn-1 w-100 mb-2 mt-1">Sign up</button>
                 </nuxt-link>
               </div>
             </div>
@@ -172,7 +172,7 @@ export default {
   right: -2px;
 }
 
-.button {
+button {
   transition: 0.5s;
   border: 0.5px solid #FFFFFF;
   border-radius: 4px;
@@ -182,6 +182,56 @@ export default {
   font-weight: 500;
   font-size: 15px;
   height: 42px;
+  background: none;
+  display: block;
+  position: relative;
+  color: white;
+}
+
+button,
+button::after {
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+/*button {*/
+/* */
+/*  border: 3px solid #fff;*/
+/*  border-radius: 5px;*/
+/*  color: #fff;*/
+/*  display: block;*/
+/*  font-size: 1.6em;*/
+/*  font-weight: bold;*/
+/*  margin: 1em auto;*/
+/*  padding: 2em 6em;*/
+/*  position: relative;*/
+/*  text-transform: uppercase;*/
+/*}*/
+
+button::before,
+button::after {
+  background: #fff;
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+
+button:hover {
+  color: #000000;
+}
+
+/* BUTTON 1 */
+.btn-1::after {
+  height: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.btn-1:hover:after {
+  height: 100%;
 }
 
 .dropdown_ a {
@@ -212,10 +262,10 @@ export default {
   font-size: 16px;
 }
 
-.nuxt-link-exact-active {
-  font-weight: bold;
-  color: #7450FE!important;
-}
+/*.nuxt-link-exact-active {*/
+/*  font-weight: bold;*/
+/*  color: #7450FE!important;*/
+/*}*/
 
 
 .navbar {

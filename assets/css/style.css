@@ -30,7 +30,16 @@ html {
   overflow-x: hidden!Important;
 }
 
+/*.button:hover img{*/
+/*  position: relative;*/
+/*  left: 10px;*/
+/*  transition: 0.3s;*/
 
+/*}*/
+
+/*.button {*/
+/*  transition: 0.3s;*/
+/*}*/
 
 h1, h4, h2, h3, h5, h6{
   font-family: "semiBold"!Important;
@@ -75,11 +84,46 @@ h1, h4, h2, h3, h5, h6{
 }
 
 button {
-  font-family: "SF Pro Rounded";
+  font-family: "semiBold";
 }
 
+button,
+button::after {
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+/*button {*/
+/* */
+/*  border: 3px solid #fff;*/
+/*  border-radius: 5px;*/
+/*  color: #fff;*/
+/*  display: block;*/
+/*  font-size: 1.6em;*/
+/*  font-weight: bold;*/
+/*  margin: 1em auto;*/
+/*  padding: 2em 6em;*/
+/*  position: relative;*/
+/*  text-transform: uppercase;*/
+/*}*/
+
+button::before,
+button::after {
+  background: #000;
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+
+button:hover {
+  color: #fff;
+
+}
+
+
 .card-box {
-  background: #FFFFFF;
   box-shadow: 8px 8px 60px rgba(0, 0, 0, 0.07);
   border-radius: 12px;
 }

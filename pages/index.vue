@@ -34,8 +34,8 @@
             <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto wallet</h4>
             <div class="sub-text pt-2">Track and manage your crypto portfolio from any device you own.</div>
             <div class="mt-3">
-              <nuxt-link to="/schools"  >
-                <button class="button btn w-50 mb-2 py-2 mt-1 text-dark" style="border: 1px solid #000000">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+              <nuxt-link to="/schools"  style="text-decoration: none">
+                <button class="button btn-4 w-50 mb-2 py-2 mt-1">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
               </nuxt-link>
             </div>
           </div>
@@ -47,8 +47,8 @@
            <h4 class=" pt-4 pl-1">Coin swap</h4>
            <div class="sub-text pt-2">Swap from one cryptocurrencies to another seamlessly with ease and peace of mind.</div>
            <div class="mt-3">
-             <nuxt-link to="/schools"  >
-               <button class="button btn w-50 mb-2 py-2 mt-1 text-dark" style="border: 1px solid #000000">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+             <nuxt-link to="/schools" style="text-decoration: none" >
+               <button class="button btn-4 w-50 mb-2 py-2 mt-1">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
            </div>
          </div>
@@ -60,9 +60,10 @@
            <h4 class=" pt-4 pl-1">Borderless payments</h4>
            <div class="sub-text pt-2">Send money directly to any bank account globally without liquidating your digital assets.</div>
            <div class="mt-3">
-             <nuxt-link to="/schools"  >
-               <button class="button btn w-50 py-2 mb-2 mt-1 text-dark" style="border: 1px solid #000000">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+             <nuxt-link to="/schools"  style="text-decoration: none">
+               <button class="button btn-4 w-50">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
+
            </div>
          </div>
        </div>
@@ -397,6 +398,47 @@ export default {
 </script>
 
 <style>
+button {
+  transition: 0.5s;
+  border: 0.5px solid #000000;
+  border-radius: 4px;
+  padding: 0px 25px 0px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  height: 42px;
+  background: none;
+  display: block;
+  position: relative;
+  color: #000000;
+}
+
+
+
+.btn-4::before {
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.btn-4::after {
+  background: #fff;
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.btn-4:hover:after {
+  height: 0;
+  left: 50%;
+  top: 50%;
+  width: 0;
+}
+
+
 .home-top {
   background: #000000;
   padding-top: 150px;
