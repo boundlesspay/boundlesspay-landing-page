@@ -26,6 +26,7 @@ export default {
       { src: "https://unpkg.co/gsap@3/dist/gsap.min.js" },
       { src: "https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js" },
       { src: "https://unpkg.com/aos@2.3.1/dist/aos.js" },
+      { src: "https://unpkg.com/ityped@0.0.10" },
 
     ],
   },

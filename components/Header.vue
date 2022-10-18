@@ -234,6 +234,24 @@ button:hover {
   height: 100%;
 }
 
+a {
+  display: inline-block;
+}
+
+a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #fff;
+  transition: width .3s;
+}
+
+a:hover::after {
+  width: 100%;
+  transition: width .3s;
+}
+
 .dropdown_ a {
   line-height: 34px;
 }

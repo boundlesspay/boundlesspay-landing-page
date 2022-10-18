@@ -1,10 +1,10 @@
 <template>
   <div class="">
-    <div class="container coin-swap mt-3">
+    <div class="container coin-swap mt-lg-3">
         <div class="row">
           <div class="col-md-6 mt-5 px-4 animate__shakeX animate__animated">
-            <h1 >Convert your crypto <br> easily and fast!</h1>
-            <p>Receive payments from anywhere, and convert them <br>
+            <h1 >Convert your crypto <br class="d-none d-sm-none"> easily and fast!</h1>
+            <p>Receive payments from anywhere, and convert them <br class="d-none d-sm-block">
               to your local currency or other currencies.</p>
             <div class="d-flex mt-4 mb-5">
               <div><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </div>
@@ -48,7 +48,7 @@
     </div>
 
     <div class="container mt-5 pt-5">
-      <h2 class=""  style="font-size: 37px">How to convert crypto in <br> seconds</h2>
+      <h2 class=""  style="font-size: 37px">How to convert crypto in <br class="d-none d-sm-block"> seconds</h2>
       <p>Opening an account has never been this seamless</p>
 
       <div class="row mt-5">
@@ -60,7 +60,7 @@
         </div>
       </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4 top">
           <div class="convert-card p-4">
             <img src="~assets/img/Group 299.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 ">Select your crypto</h5>
@@ -68,7 +68,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4 top">
           <div class="convert-card p-4">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Complete conversion</h5>

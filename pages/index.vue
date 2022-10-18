@@ -4,18 +4,24 @@
      <div class="container pb-5">
        <div class="row">
 <!--         animate__delay-2s-->
-         <div class="col-md-7 mt-5 content">
-           <h1 class="text-white  ml12">Send money easily to anywhere in the world.</h1>
-           <p class="text-white pt-3 anim1">Local and international cryptocurrency or fiat payments leveraging <br> blockchain technology.</p>
-           <div class="d-flex mt-4 pt-2 mb-5 anim1">
+         <div class="col-md-7 mt-lg-5 content"  data-aos="fade-up"
+              data-aos-duration="2000" data-aos-offset="300"
+              data-aos-easing="ease-in-sine">
+
+           <h1 class="text-white"><span class="ityped"></span><br>
+            Transactions
+           </h1>
+
+           <p class="text-white pt-2 anim1" style="font-size: 20px">Local and international cryptocurrency or fiat payments leveraging <br> blockchain technology.</p>
+           <div class="d-flex mt-4 mb-5 anim1">
              <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
              <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
            </div>
          </div>
 
          <div class="col-md-5 wrapper">
-           <div class="swirl">
-             <img src="~assets/img/home-page-img.png" class="animate__lightSpeedInRight animate__animated" width="470" alt="">
+           <div class="swirl mt-n2">
+             <img src="~assets/img/home-page-img.png" class="animate__lightSpeedInRight animate__animated" width="490" alt="">
              <img src="~assets/img/underbackground.png" class="under-img" alt="">
            </div>
          </div>
@@ -23,45 +29,46 @@
      </div>
    </section>
 
+
    <div class="container mt-4 pt-3">
      <div class="global text-center ml12">GLOBAL REMITTANCES</div>
-     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px">A platform for global remittances <br> across the whole world</h2>
+     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px">A platform for global remittances <br class="d-none d-sm-block"> across the whole world</h2>
 
      <div class="row mt-4 pt-3">
        <div class="col-md-4 "  data-aos="zoom-in" data-aos-delay="50">
-          <div class="card-box pt-5 pb-4 px-3 text-left">
+          <div class="card-box pt-5 pb-5 px-5 text-left">
             <img src="~assets/img/secure-crypto.svg" class="img-fluid" alt="">
             <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto wallet</h4>
             <div class="sub-text pt-2">Track and manage your crypto portfolio from any device you own.</div>
-            <div class="mt-3">
+            <div class="mt-4">
               <nuxt-link to="/schools"  style="text-decoration: none">
-                <button class="button btn-4 w-50 mb-2 py-2 mt-1">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+                <button class="button btn-4 w-100 mb-2 py-2 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
               </nuxt-link>
             </div>
           </div>
        </div>
 
        <div class="col-md-4" data-aos="zoom-in" data-aos-delay="250">
-         <div class="card-box pt-5 pb-4 px-3 text-left">
+         <div class="card-box pt-5 pb-5 px-5 text-left">
            <img src="~assets/img/coin-swap.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Coin swap</h4>
            <div class="sub-text pt-2">Swap from one cryptocurrencies to another seamlessly with ease and peace of mind.</div>
-           <div class="mt-3">
+           <div class="mt-4">
              <nuxt-link to="/schools" style="text-decoration: none" >
-               <button class="button btn-4 w-50 mb-2 py-2 mt-1">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+               <button class="button btn-4 w-100 mb-2 py-2 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
            </div>
          </div>
        </div>
 
        <div class="col-md-4" data-aos="zoom-in" data-aos-delay="350">
-         <div class="card-box pt-5 pb-4 px-3 text-left">
+         <div class="card-box pt-5 pb-5 px-5 text-left">
            <img src="~assets/img/borderless-payment.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Borderless payments</h4>
            <div class="sub-text pt-2">Send money directly to any bank account globally without liquidating your digital assets.</div>
-           <div class="mt-3">
+           <div class="mt-4">
              <nuxt-link to="/schools"  style="text-decoration: none">
-               <button class="button btn-4 w-50">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+               <button class="button btn-4 w-100 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
 
            </div>
@@ -72,14 +79,13 @@
 
    <div class="container " style="background: #000000; border-radius: 14px; margin-top: 100px">
       <div class="row ">
-        <div class="col-md-6 pt-5 px-5 m-4">
+        <div class="col-md-6 pt-5 px-lg-5 m-4">
           <h1 class="text-white " style="font-size: 39px">A world with no Bounds</h1>
           <p class="pt-3 sub-textt" style="opacity: 0.6; line-height: 30px; font-size: 16px; color: #FFFFFF;">Boundlesspay is a safe app that turns your phone into a mobile bank. Its pre-installed digital wallet
             and debit card allows for the storage and spending of digital currencies across merchants worldwide. In addition, you can use one app to access crypto loans,
             pay utilities, invest in digital currencies, and access other unique decentralized finance features.</p>
         </div>
-        <div class="col-md-5" data-aos="fade-up-left"
-             data-aos-duration="1500">
+        <div class="col-md-5">
           <img src="~assets/img/bond.png" alt="" class=" img">
         </div>
       </div>
@@ -108,21 +114,21 @@
        </div>
 
        <div class="col-md-6" v-if="showWalletAddressForm">
-         <img src="~assets/img/crypto-img.png" class="buy-sell" width="400" alt="" >
+         <img src="~assets/img/crypto-img.png" class="buy-sell img-ani" width="400" alt="" >
        </div>
 
        <div class="col-md-6" v-if="showEmailForm">
-          <div class="pl-3 mt-5">
-            <h2 style="font-size: 35px">Send & Recieve Crypto</h2>
-            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-            <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
+          <div class="pl-3 mt-5"  data-aos="fade-up" data-aos-delay="100">
+            <h2 style="font-size: 35px" data-aos="fade-up" data-aos-delay="150">Send & Recieve Crypto</h2>
+            <p class="pt-3" style="color: #000000;opacity: 0.8;" data-aos="fade-up" data-aos-delay="200">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
+            <p class="pt-2" style="color: #000000;opacity: 0.8;" data-aos="fade-up" data-aos-delay="200">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
               They get cash flow on the accounts for up to 12 months,
               all seamlessly without writing a single line of code</p>
           </div>
        </div>
 
-       <div class="col-md-6 " v-if="showEmailForm" data-aos="zoom-in-left">
-         <img src="~assets/img/Buy-and-sell.png" class="buy-sell" width="400" alt="" >
+       <div class="col-md-6 " v-if="showEmailForm">
+         <img src="~assets/img/Buy-and-sell.png" class="buy-sell img-ani" width="400" alt="" >
        </div>
 
        <div class="col-md-6" v-if="showPhoneForm">
@@ -159,12 +165,16 @@
      <h2 class="text-center font-weight-bold " style="font-size: 40px">Better savings and earning opportunities</h2>
    </div>
 
+
+
    <div class="container px-5 pt-5 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;">
      <div class="row">
        <h6 class="buy" @click="walletAddressForm" :class="[showWalletAddressForm ? 'active' : '']">Grow your money</h6>
        <h6 class="buy" @click="emailForm" :class="[showEmailForm ? 'active' : '']">Access loans faster</h6>
        <h6 class="buy" @click="phoneForm" :class="[showPhoneForm ? 'active' : '']">Earn with ease</h6>
        <h6 class="buy" @click="SecurityForm" :class="[showSecurityForm ? 'active' : '']" >Stake</h6>
+       <h6 class="buy" @click="SecurityForm" :class="[showSecurityForm ? 'active' : '']" ></h6>
+
 
        <div class="col-md-6" v-if="showWalletAddressForm">
          <div class="pl-3 mt-5">
@@ -181,9 +191,7 @@
 
        <div class="col-md-6" v-if="showEmailForm">
          <div class="pl-3 mt-5">
-           <h2 style="font-size: 35px"  data-aos="fade-right"
-               data-aos-offset="100"
-               data-aos-easing="ease-in-sine">Access Loans Faster</h2>
+           <h2 style="font-size: 35px" >Access Loans Faster</h2>
            <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
            <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
              They get cash flow on the accounts for up to 12 months,
@@ -231,7 +239,7 @@
        <div class="col-md-6 mt-4">
          <span style="color: #003399;" class="ml13">BoundlessPay Card</span>
          <h2 class="py-1 " style="font-size: 45px">Card that solves <br> everything</h2>
-         <p>Get the freedom to make quick and easy payments, earn <br> money, spend smart, and save more.</p>
+         <p>Get the freedom to make quick and easy payments, earn <br class="d-none d-sm-block"> money, spend smart, and save more.</p>
          <div class="d-flex mt-5">
            <div>
              <div><img src="~assets/img/check-good.svg" alt="" class="img-fluid"> <span class="ml-2">Create virtual cards</span> </div>
@@ -307,6 +315,11 @@ export default {
   },
 
   mounted() {
+    window.ityped.init(document.querySelector('.ityped'),{
+      strings: ['Seamless','Global','Boundless', 'Fast', 'Easy',],
+      loop: true
+    })
+
     AOS.init({
       offset: 100,
       duration: 1000,
@@ -476,10 +489,12 @@ button {
   cursor: pointer;
 }
 
-.buy-sell {
-  position: relative;
-  left: 70px;
-  top: 0px;
+@media screen and (min-width: 800px) {
+  .buy-sell {
+    position: relative;
+    left: 70px;
+    top: 0px;
+  }
 }
 
 .active {

@@ -62,7 +62,7 @@
         </div>
 
         <div class="col-md-4">
-          <div class="d-flex">
+          <div class="d-flex top">
             <div>
               <img src="~assets/img/arcticons_samsung-secure.svg" class="img-fluid nt-2" width="100" alt="">
             </div>
@@ -74,7 +74,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4 top">
           <div class="d-flex">
             <div>
               <img src="~assets/img/mdi_car-brake-low-pressure.svg" class="img-fluid mt-2" width="100" alt="">
@@ -137,7 +137,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4 top">
           <div class="convert-card p-4 h-100">
             <img src="~assets/img/Group 299.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Complete KYC verification</h5>
@@ -145,7 +145,7 @@
           </div>
         </div>
 
-        <div class="col-md-4 h-100" >
+        <div class="col-md-4 h-100 top" >
           <div class="convert-card p-4 h-100">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Request and Spend</h5>

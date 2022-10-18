@@ -2,8 +2,27 @@ body {
   font-style: normal;
   /*background: #F9F9F9;*/
   scroll-behavior: smooth;
+  overflow-x: hidden;
   width: 100%;
   font-family: "SF Pro Rounded", sans-serif;
+}
+
+.container, .container-sm, .container-md {
+  max-width: 720px;
+}
+
+@media (min-width: 576px) {
+  .container, .container-sm {
+    max-width: 1190px;
+  }
+
+  .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 
 div{
@@ -11,7 +30,7 @@ div{
 }
 
 h1 {
-  font-size: 49px;
+  font-size: 55px;
 }
 
 p {
@@ -122,6 +141,11 @@ button:hover {
 
 }
 
+@media screen and (max-width: 750px) {
+  .top {
+   margin-top: 20px;
+  }
+}
 
 .card-box {
   box-shadow: 8px 8px 60px rgba(0, 0, 0, 0.07);
