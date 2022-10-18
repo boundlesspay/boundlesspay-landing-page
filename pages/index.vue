@@ -224,7 +224,7 @@
 
    <div class="container mt-5 pt-5">
      <div class="row">
-       <div class="col-md-6">
+       <div class="col-md-6  img-ani">
          <img src="~assets/img/CARD-THAT-SOLVES.png" class="img-fluid" alt="" >
        </div>
 
@@ -487,4 +487,26 @@ button {
   font-weight: 700;
   opacity: 1!important;
 }
+
+.img-ani {
+  transform: translatey(0px);
+  animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+
+    transform: translatey(-20px);
+  }
+  100% {
+
+    transform: translatey(0px);
+  }
+}
+
+
+
 </style>
