@@ -38,10 +38,10 @@
                   <n-link to="/about-us">About Us</n-link>
                 </p>
                 <p>
-                  <n-link to="/schools">Careers</n-link>
+                  <n-link to="#">Careers</n-link>
                 </p>
                 <p>
-                  <n-link to="/companies">Contact us</n-link>
+                  <n-link to="#">Contact us</n-link>
                 </p>
               </div>
             </div>
@@ -50,13 +50,13 @@
               <h5 class="mb-4">Support</h5>
               <div>
                 <p>
-                  <n-link to="/contact-us">FAQS</n-link>
+                  <n-link to="#">FAQS</n-link>
                 </p>
                 <p>
-                  <n-link to="/#faq">Support</n-link>
+                  <n-link to="#">Support</n-link>
                 </p>
                 <p>
-                  <n-link to="/contact-us">Blog</n-link>
+                  <n-link to="#">Blog</n-link>
                 </p>
 
               </div>

@@ -3,7 +3,7 @@
     <b-navbar toggleable="lg" class="pt-2">
       <div class="container-fluid">
         <b-navbar-brand to="/" class="ml-n2">
-          <img loading="lazy" src="~/assets/img/logo.svg" width="249px" class="img-fluid d-none d-md-inline" alt="">
+          <img loading="lazy" src="~/assets/img/logo.svg" width="230px" class="img-fluid d-none d-md-inline mt-n2 pb-2" alt="">
           <img loading="lazy" src="~/assets/img/logo.svg" width="200px" class="img-fluid d-md-none" alt="">
 
         </b-navbar-brand>
@@ -77,13 +77,13 @@
                 </div>
               </div>
             <div class="d-flex">
-                <nuxt-link to="/about-us" class="ml-1">Our token</nuxt-link>
+                <nuxt-link to="#" class="ml-1">Our token</nuxt-link>
               </div>
             <div class="d-flex">
-                <nuxt-link to="/about-us" class="ml-1">Blog</nuxt-link>
+                <nuxt-link to="#" class="ml-1">Blog</nuxt-link>
               </div>
             <div class="d-flex">
-                <nuxt-link to="/about-us" class="ml-1">How to</nuxt-link>
+                <nuxt-link to="#" class="ml-1">How to</nuxt-link>
               </div>
 
 
@@ -96,7 +96,7 @@
                             Log in
                           </a>
               <div>
-                <nuxt-link to="/schools"  >
+                <nuxt-link to="#"  >
                   <button class="button btn-1 w-100 mb-2 mt-1">Sign up</button>
                 </nuxt-link>
               </div>
