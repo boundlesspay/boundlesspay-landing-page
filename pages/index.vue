@@ -8,7 +8,7 @@
               data-aos-duration="2000" data-aos-offset="300"
               data-aos-easing="ease-in-sine">
 
-           <h1 class="text-white"><span class="ityped"></span><br>
+           <h1 class="text-white" style="font-size: 57px"><span class="ityped"></span><br>
             Transactions
            </h1>
 
