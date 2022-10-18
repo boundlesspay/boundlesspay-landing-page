@@ -13,7 +13,7 @@
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="mx-auto text-white center" style="position:relative; left: 30px; top: 4px">
               <div class="d-flex">
-                <nuxt-link to="/about-us" class="ml-1">About</nuxt-link>
+                <nuxt-link to="/about-us" class="ml-1 cool-link">About</nuxt-link>
               </div>
               <div class="d-flex ml-3">
                 <div  class="d-flex top-btn mt-n2">
@@ -77,13 +77,13 @@
                 </div>
               </div>
             <div class="d-flex">
-                <nuxt-link to="#" class="ml-1">Our token</nuxt-link>
+                <nuxt-link to="#" class="ml-1 cool-link">Our token</nuxt-link>
               </div>
             <div class="d-flex">
-                <nuxt-link to="#" class="ml-1">Blog</nuxt-link>
+                <nuxt-link to="#" class="ml-1 cool-link">Blog</nuxt-link>
               </div>
             <div class="d-flex">
-                <nuxt-link to="#" class="ml-1">How to</nuxt-link>
+                <nuxt-link to="#" class="ml-1 cool-link">How to</nuxt-link>
               </div>
 
 
@@ -238,7 +238,7 @@ a {
   display: inline-block;
 }
 
-a::after {
+.cool-link::after {
   content: '';
   display: block;
   width: 0;
@@ -247,7 +247,7 @@ a::after {
   transition: width .3s;
 }
 
-a:hover::after {
+.cool-link:hover::after {
   width: 100%;
   transition: width .3s;
 }

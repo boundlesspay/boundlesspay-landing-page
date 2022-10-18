@@ -13,7 +13,7 @@ body {
 
 @media (min-width: 576px) {
   .container, .container-sm {
-    max-width: 1190px;
+    max-width: 1180px;
   }
 
   .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
