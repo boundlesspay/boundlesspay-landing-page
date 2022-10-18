@@ -96,7 +96,7 @@
                             Log in
                           </a>
               <div>
-                <nuxt-link to="#"  >
+                <nuxt-link to="#" >
                   <button class="button btn-1 w-100 mb-2 mt-1">Sign up</button>
                 </nuxt-link>
               </div>

@@ -28,7 +28,7 @@
      <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px">A platform for global remittances <br> across the whole world</h2>
 
      <div class="row mt-4 pt-3">
-       <div class="col-md-4 ">
+       <div class="col-md-4 "  data-aos="zoom-in" data-aos-delay="50">
           <div class="card-box pt-5 pb-4 px-3 text-left">
             <img src="~assets/img/secure-crypto.svg" class="img-fluid" alt="">
             <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto wallet</h4>
@@ -41,7 +41,7 @@
           </div>
        </div>
 
-       <div class="col-md-4">
+       <div class="col-md-4" data-aos="zoom-in" data-aos-delay="250">
          <div class="card-box pt-5 pb-4 px-3 text-left">
            <img src="~assets/img/coin-swap.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Coin swap</h4>
@@ -54,7 +54,7 @@
          </div>
        </div>
 
-       <div class="col-md-4" >
+       <div class="col-md-4" data-aos="zoom-in" data-aos-delay="350">
          <div class="card-box pt-5 pb-4 px-3 text-left">
            <img src="~assets/img/borderless-payment.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Borderless payments</h4>
