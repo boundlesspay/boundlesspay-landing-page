@@ -66,7 +66,7 @@
               <h5 class="mb-4">Legal</h5>
               <div>
                 <p>
-                  <n-link to="#">Provicy policy</n-link>
+                  <n-link to="#">Privacy policy</n-link>
                 </p>
                 <p>
                   <n-link to="#">Terms and conditions</n-link>

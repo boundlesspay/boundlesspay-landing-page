@@ -5,7 +5,6 @@
         <b-navbar-brand to="/" class="ml-n2">
           <img loading="lazy" src="~/assets/img/logo.svg" width="230px" class="img-fluid d-none d-md-inline mt-n2 pb-2" alt="">
           <img loading="lazy" src="~/assets/img/logo.svg" width="200px" class="img-fluid d-md-none" alt="">
-
         </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -35,26 +34,26 @@
                       </div>
                     </template>
                     <div class="dropdown_">
-                      <b-dropdown-item to="/coin-swap">
+                      <b-dropdown-item to="/secure-crypto-swap">
                         <div class="d-flex">
                           <div>
                             <img src="~assets/img/coin-swap-img.svg" alt="">
                           </div>
                           <div class="ml-3 mt-n1">
-                            <div style="font-size: 19px">Coin swap</div>
+                            <div style="font-size: 19px">Secure Crypto Cards</div>
                             <span>Recieve payments from anywhere and <br>
                           convert to cryptocurrencies or stable coins</span>
                           </div>
                         </div>
                       </b-dropdown-item>
 
-                      <b-dropdown-item to="crypto-cards">
+                      <b-dropdown-item to="/coin-swap">
                         <div class="d-flex mt-3">
                           <div>
                             <img src="~assets/img/crypto-card-icon.svg" alt="">
                           </div>
                           <div class="ml-3 mt-n1">
-                            <div style="font-size: 19px">Crypto Cards</div>
+                            <div style="font-size: 19px">Coin swap</div>
                             <span>Make exclusive payments online with your virtual <br> crypto cards</span>
                           </div>
                         </div>
@@ -80,7 +79,7 @@
                 <nuxt-link to="#" class="ml-1 cool-link">Our token</nuxt-link>
               </div>
             <div class="d-flex">
-                <nuxt-link to="#" class="ml-1 cool-link">Blog</nuxt-link>
+                <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a" class="ml-1 cool-link">Blog</a>
               </div>
             <div class="d-flex">
                 <nuxt-link to="#" class="ml-1 cool-link">How to</nuxt-link>
@@ -177,7 +176,6 @@ button {
   border: 0.5px solid #FFFFFF;
   border-radius: 4px;
   padding: 0px 25px 0px;
-  font-family: Poppins;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;

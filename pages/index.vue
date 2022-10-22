@@ -14,8 +14,8 @@
 
            <p class="text-white pt-2 anim1" style="font-size: 20px">Local and international cryptocurrency or fiat payments leveraging <br> blockchain technology.</p>
            <div class="d-flex mt-4 mb-5 anim1">
-             <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
-             <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
+             <div><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </div>
+             <div class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </div>
            </div>
          </div>
 
@@ -35,39 +35,39 @@
      <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px">A platform for global remittances <br class="d-none d-sm-block"> across the whole world</h2>
 
      <div class="row mt-4 pt-3">
-       <div class="col-md-4 "  data-aos="zoom-in" data-aos-delay="50">
-          <div class="card-box pt-5 pb-5 px-5 text-left">
+       <div class="col-md-4 h-100"  data-aos="zoom-in" data-aos-delay="50">
+          <div class="card-box pt-5 pb-5 px-5 text-left h-100">
             <img src="~assets/img/secure-crypto.svg" class="img-fluid" alt="">
-            <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto wallet</h4>
+            <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto cards</h4>
             <div class="sub-text pt-2">Track and manage your crypto portfolio from any device you own.</div>
             <div class="mt-4">
-              <nuxt-link to="/schools"  style="text-decoration: none">
+              <nuxt-link to="/secure-crypto-cards"  style="text-decoration: none">
                 <button class="button btn-4 w-100 mb-2 py-2 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
               </nuxt-link>
             </div>
           </div>
        </div>
 
-       <div class="col-md-4" data-aos="zoom-in" data-aos-delay="250">
+       <div class="col-md-4 h-100" data-aos="zoom-in" data-aos-delay="250">
          <div class="card-box pt-5 pb-5 px-5 text-left">
            <img src="~assets/img/coin-swap.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Coin swap</h4>
            <div class="sub-text pt-2">Swap from one cryptocurrencies to another seamlessly with ease and peace of mind.</div>
            <div class="mt-4">
-             <nuxt-link to="/schools" style="text-decoration: none" >
+             <nuxt-link to="/coin-swap" style="text-decoration: none" >
                <button class="button btn-4 w-100 mb-2 py-2 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
            </div>
          </div>
        </div>
 
-       <div class="col-md-4" data-aos="zoom-in" data-aos-delay="350">
-         <div class="card-box pt-5 pb-5 px-5 text-left">
+       <div class="col-md-4 h-100" data-aos="zoom-in" data-aos-delay="350">
+         <div class="card-box pt-5 pb-5 px-5 text-left h-100">
            <img src="~assets/img/borderless-payment.svg" class="img-fluid" alt="">
-           <h4 class=" pt-4 pl-1">Borderless payments</h4>
-           <div class="sub-text pt-2">Send money directly to any bank account globally without liquidating your digital assets.</div>
+           <h4 class=" pt-4 pl-1">Money transfer</h4>
+           <div class="sub-text pt-2">Send money directly to any bank account globally.</div>
            <div class="mt-4">
-             <nuxt-link to="/schools"  style="text-decoration: none">
+             <nuxt-link to="/transfer-money"  style="text-decoration: none">
                <button class="button btn-4 w-100 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
 
@@ -118,17 +118,17 @@
        </div>
 
        <div class="col-md-6" v-if="showEmailForm">
-          <div class="pl-3 mt-5"  data-aos="fade-up" data-aos-delay="100">
-            <h2 style="font-size: 35px" data-aos="fade-up" data-aos-delay="150">Send & Recieve Crypto</h2>
-            <p class="pt-3" style="color: #000000;opacity: 0.8;" data-aos="fade-up" data-aos-delay="200">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-            <p class="pt-2" style="color: #000000;opacity: 0.8;" data-aos="fade-up" data-aos-delay="200">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
+          <div class="pl-3 mt-5">
+            <h2 style="font-size: 35px" >Send & Recieve Crypto</h2>
+            <p class="pt-3" style="color: #000000;opacity: 0.8;" >Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
+            <p class="pt-2" style="color: #000000;opacity: 0.8;" >Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
               They get cash flow on the accounts for up to 12 months,
               all seamlessly without writing a single line of code</p>
           </div>
        </div>
 
        <div class="col-md-6 " v-if="showEmailForm">
-         <img src="~assets/img/Buy-and-sell.png" class="buy-sell img-ani" width="400" alt="" >
+         <img src="~assets/img/Buy-and-sell.png" class="buy-sell " width="400" alt="" >
        </div>
 
        <div class="col-md-6" v-if="showPhoneForm">
@@ -199,7 +199,7 @@
          </div>
        </div>
        <div class="col-md-6 " v-if="showEmailForm">
-         <img src="~assets/img/Refer-1.png" class="buy-sell animate__shakeY animate__animated" width="400" alt="" >
+         <img src="~assets/img/Refer-1.png" class="buy-sell" width="400" alt="" >
        </div>
 
        <div class="col-md-6" v-if="showPhoneForm">
@@ -212,7 +212,7 @@
          </div>
        </div>
        <div class="col-md-6 mt-4" v-if="showPhoneForm">
-         <img src="~assets/img/Earn-1.png" class="buy-sell animate__lightSpeedInRight animate__animated" width="400" alt="" >
+         <img src="~assets/img/Earn-1.png" class="buy-sell" width="400" alt="" >
        </div>
 
        <div class="col-md-6" v-if="showSecurityForm">
@@ -225,7 +225,7 @@
          </div>
        </div>
        <div class="col-md-6 mt-4" v-if="showSecurityForm">
-         <img src="~assets/img/Staking-1.png" class="buy-sell animate__wobble animate__animated" width="400" alt="" >
+         <img src="~assets/img/Staking-1.png" class="buy-sell" width="400" alt="" >
        </div>
      </div>
    </div>
@@ -252,7 +252,7 @@
          </div>
 
          <div class="col-md-6 mt-4" >
-           <nuxt-link to="/schools">
+           <nuxt-link to="/secure-crypto-cards">
              <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Learn more  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
            </nuxt-link>
          </div>
@@ -268,8 +268,8 @@
          <p class="pt-3" style=" font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
            access to better financial services designed to get you to where you need to be.</p>
          <div class="d-flex mt-4 mb-5">
-           <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
-           <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
+           <div><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </div>
+           <div class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </div>
          </div>
        </div>
        <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
@@ -421,10 +421,11 @@ button {
   font-weight: 500;
   font-size: 15px;
   height: 42px;
-  background: none;
+  background: #fff;
   display: block;
   position: relative;
   color: #000000;
+
 }
 
 
@@ -442,6 +443,10 @@ button {
   left: 0;
   top: 0;
   width: 100%;
+}
+
+button:hover {
+  color: #d5b9b9;
 }
 
 .btn-4:hover:after {
