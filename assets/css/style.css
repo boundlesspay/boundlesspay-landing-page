@@ -103,7 +103,11 @@ h1, h4, h2, h3, h5, h6{
 }
 
 button {
-  font-family: "semiBold";
+  font-family: "semi-Bold"!important;
+}
+
+a {
+
 }
 
 button,
