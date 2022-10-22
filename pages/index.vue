@@ -49,7 +49,7 @@
        </div>
 
        <div class="col-md-4 h-100" data-aos="zoom-in" data-aos-delay="250">
-         <div class="card-box pt-5 pb-5 px-5 text-left">
+         <div class="card-box pt-5 pb-5 px-5 text-left h-100">
            <img src="~assets/img/coin-swap.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Coin swap</h4>
            <div class="sub-text pt-2">Swap from one cryptocurrencies to another seamlessly with ease and peace of mind.</div>
@@ -68,7 +68,7 @@
            <div class="sub-text pt-2">Send money directly to any bank account globally.</div>
            <div class="mt-4">
              <nuxt-link to="/transfer-money"  style="text-decoration: none">
-               <button class="button btn-4 w-100 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
+               <button class="button btn-4 w-100 py-2 mb-2">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
              </nuxt-link>
 
            </div>
