@@ -3,8 +3,8 @@
     <b-navbar toggleable="lg" class="pt-2">
       <div class="container-fluid">
         <b-navbar-brand to="/" class="ml-n2">
-          <img loading="lazy" src="~/assets/img/logo.svg" width="230px" class="img-fluid d-none d-md-inline mt-n2 pb-2" alt="">
-          <img loading="lazy" src="~/assets/img/logo.svg" width="200px" class="img-fluid d-md-none" alt="">
+          <img loading="lazy" src="~/assets/img/BPAY-WHITE.png" width="230px" class="img-fluid d-none d-md-inline mt-n2 pb-2" alt="">
+          <img loading="lazy" src="~/assets/img/BPAY-WHITE.png" width="200px" class="img-fluid d-md-none" alt="">
         </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -34,7 +34,7 @@
                       </div>
                     </template>
                     <div class="dropdown_">
-                      <b-dropdown-item to="/secure-crypto-swap">
+                      <b-dropdown-item to="/secure-crypto-cards">
                         <div class="d-flex">
                           <div>
                             <img src="~assets/img/coin-swap-img.svg" alt="">

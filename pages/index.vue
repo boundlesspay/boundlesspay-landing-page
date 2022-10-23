@@ -38,8 +38,8 @@
        <div class="col-md-4 h-100"  data-aos="zoom-in" data-aos-delay="50">
           <div class="card-box pt-5 pb-5 px-5 text-left h-100">
             <img src="~assets/img/secure-crypto.svg" class="img-fluid" alt="">
-            <h4 class=" pt-4 pl-1 animate__animated  animate__zoomInDown">Secure crypto cards</h4>
-            <div class="sub-text pt-2">Track and manage your crypto portfolio from any device you own.</div>
+            <h4 class=" pt-4 pl-1">Secure crypto cards</h4>
+            <div class="sub-text pt-1">Track and manage your crypto portfolio from any device you own.</div>
             <div class="mt-4">
               <nuxt-link to="/secure-crypto-cards"  style="text-decoration: none">
                 <button class="button btn-4 w-100 mb-2 py-2 ">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
