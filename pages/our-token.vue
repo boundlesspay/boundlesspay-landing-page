@@ -17,6 +17,10 @@
             </div>
           </div>
         </div>
+
+        <div class="col-md-6 mt-n5">
+          <img src="~assets/img/Nexus-token.png" class="img-fluid" width="670" alt="">
+        </div>
       </div>
     </div>
 
@@ -177,5 +181,11 @@ export default {
   position: absolute;
   margin-top: 23px;
   margin-left: 485px;
+}
+
+@media screen and (max-width: 780px) {
+  .token-img {
+    margin-left: -25px;
+  }
 }
 </style>
