@@ -3,7 +3,7 @@
     <div class="container coin-swap mt-lg-3">
         <div class="row">
           <div class="col-md-6 mt-5 px-4 animate__shakeX animate__animated">
-            <h1 >Convert your crypto <br class="d-none d-sm-none"> easily and fast!</h1>
+            <h1 >Convert your crypto <br class=""> easily and fast!</h1>
             <p>Receive payments from anywhere, and convert them <br class="d-none d-sm-block">
               to your local currency or other currencies.</p>
             <div class="d-flex mt-4 mb-5">
@@ -53,29 +53,34 @@
 
       <div class="row mt-5">
         <div class="col-md-4">
-        <div class="convert-card p-4">
+        <div class="">
           <img src="~assets/img/Group 298.png" class="img-fluid pt-2" width="65" alt="">
           <h5 class="pt-4">Enter the amount</h5>
           <p class="pt-2">Input the amount you want to convert <br> into the input box</p>
         </div>
       </div>
 
+        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img d-none d-sm-block" width="300" alt="">
+
         <div class="col-md-4 top">
-          <div class="convert-card p-4">
+          <div class="">
             <img src="~assets/img/Group 299.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 ">Select your crypto</h5>
             <p class="pt-2">Input the amount you want to convert <br> into the input box</p>
           </div>
         </div>
 
+        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img1 d-none d-sm-block" width="300" alt="">
+
         <div class="col-md-4 top">
-          <div class="convert-card p-4">
+          <div class="">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Complete conversion</h5>
             <p class="pt-2">Input the amount you want to convert <br> into the input box</p>
           </div>
         </div>
       </div>
+
 
       <div class="col-md-4 mt-4 ml-n2">
         <nuxt-link to="/schools">

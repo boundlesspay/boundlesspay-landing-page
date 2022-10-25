@@ -10,11 +10,11 @@
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
         <b-collapse id="nav-collapse" is-nav>
-          <b-navbar-nav class="mx-auto text-white center" style="position:relative; left: 30px; top: 4px">
+          <b-navbar-nav class="mx-auto text-white center_ nav-center" >
               <div class="d-flex">
                 <nuxt-link to="/about-us" class="ml-1 cool-link">About</nuxt-link>
               </div>
-              <div class="d-flex ml-3">
+              <div class="d-flex ml-lg-3 product">
                 <div  class="d-flex top-btn mt-n2">
                   <b-dropdown
                     variant="empty"
@@ -76,20 +76,18 @@
                 </div>
               </div>
             <div class="d-flex">
-                <nuxt-link to="#" class="ml-1 cool-link">Our token</nuxt-link>
+                <nuxt-link to="/our-token" class="ml-1 cool-link">Our token</nuxt-link>
               </div>
             <div class="d-flex">
                 <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a" class="ml-1 cool-link">Blog</a>
               </div>
             <div class="d-flex">
-                <nuxt-link to="#" class="ml-1 cool-link">How to</nuxt-link>
+                <nuxt-link to="/how-to" class="ml-1 cool-link">How to</nuxt-link>
               </div>
-
-
 
           </b-navbar-nav>
 
-          <b-navbar-nav class="ml-auto  my-lg-0 order-0">
+          <b-navbar-nav class="ml-auto  my-lg-0 order-0 top">
             <div class="mt-n3  d-flex align-items-center justify-content-between mt-lg-0">
                           <a href="#"  class="mr-4 pt-n5 text-white">
                             Log in
@@ -272,11 +270,7 @@ a {
   font-weight: 550;
 }
 
-.center a {
-  color: #fff;
-  padding: 0px 28px 0px;
-  font-size: 16px;
-}
+
 
 /*.nuxt-link-exact-active {*/
 /*  font-weight: bold;*/
@@ -329,5 +323,40 @@ a {
 
 a {
   text-decoration: none;
+}
+
+@media screen and (min-width: 800px) {
+  .nav-center {
+    position:relative;
+    left: 30px;
+    top: 4px
+  }
+
+  .center_ a {
+    color: #fff;
+    padding: 0px 28px 0px;
+    font-size: 16px;
+  }
+
+  .top {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .top {
+    margin-top: 21px;
+  }
+
+  .product {
+    position: relative;
+    left: -6px;
+  }
+}
+
+
+.center_ a {
+  color: #fff;
+  font-size: 16px;
 }
 </style>

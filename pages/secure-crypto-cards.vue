@@ -130,23 +130,27 @@
 
       <div class="row mt-5">
         <div class="col-md-4 ">
-          <div class="convert-card p-4 h-100">
+          <div class=" h-100">
             <img src="~assets/img/Group 298.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Register in minutes</h5>
             <p class="pt-2">Sign up online, or in our app with your email address</p>
           </div>
         </div>
 
+        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img d-none d-sm-block" width="300" alt="">
+
         <div class="col-md-4 top">
-          <div class="convert-card p-4 h-100">
+          <div class=" h-100">
             <img src="~assets/img/Group 299.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Complete KYC verification</h5>
             <p class="pt-2">Verify your identity using your government-issued ID</p>
           </div>
         </div>
 
+        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img1 d-none d-sm-block" width="300" alt="">
+
         <div class="col-md-4 h-100 top" >
-          <div class="convert-card p-4 h-100">
+          <div class=" h-100">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
             <h5 class="pt-4 font-weight-bold">Request and Spend</h5>
             <p class="pt-2">Request your crypto virtual cards in few minutes and start spending on your favorites websites at the best rates.</p>
@@ -154,7 +158,7 @@
         </div>
       </div>
 
-      <div class="col-md-4 mt-5 ml-n2">
+      <div class="col-md-4 mt-4 ml-n2">
         <nuxt-link to="/schools">
           <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Get started  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
         </nuxt-link>

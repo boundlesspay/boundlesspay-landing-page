@@ -3,8 +3,8 @@
     <div class="container coin-swap mt-3">
       <div class="row">
         <div class="col-md-6 mt-4  px-4" style="position:relative; left: -15px">
-          <h1>Welcome to the World of Global Remittances</h1>
-          <p>Boundlesspay is a secure application that turns your cell-phone into a mobile bank.
+          <h1>Welcome to the World <br> of Global Remittances</h1>
+          <p class="">Boundlesspay is a secure application that turns your cell-phone into a mobile bank.
             Its pre-installed digital wallet and debit card enables storing and spending of digital currencies across merchants globally. In addition, you can access crypto loans, pay utilities, invest in digital currencies and have
             \access to other amazing decentralised finance features in one single app.</p>
           <div class="d-flex mt-4 mb-5">
