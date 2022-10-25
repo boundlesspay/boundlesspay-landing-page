@@ -66,10 +66,10 @@
               <h5 class="mb-4">Legal</h5>
               <div>
                 <p>
-                  <n-link to="#">Privacy policy</n-link>
+                  <n-link to="/privacy-policy">Privacy policy</n-link>
                 </p>
                 <p>
-                  <n-link to="#">Terms and conditions</n-link>
+                  <n-link to="terms-of-use">Terms and conditions</n-link>
                 </p>
                 <p>
                   <n-link to="#">Contact us</n-link>
