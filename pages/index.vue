@@ -21,7 +21,7 @@
 
          <div class="col-md-5 wrapper">
            <div class="swirl mt-n2">
-             <img src="~assets/img/home-page-img.png" class="animate__lightSpeedInRight animate__animated img-mobile" width="490" alt="">
+             <img src="~assets/img/home-page-img.png" class="" width="490" alt="">
              <img src="~assets/img/underbackground.png" class="under-img" alt="">
            </div>
          </div>
