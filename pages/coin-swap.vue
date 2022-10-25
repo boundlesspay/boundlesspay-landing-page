@@ -12,7 +12,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 animate__backInRight animate__animated">
+          <div class="col-md-6 ">
             <img src="~assets/img/coin-swap.png" class="img-fluid" alt="">
           </div>
         </div>
