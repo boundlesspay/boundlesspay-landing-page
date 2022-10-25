@@ -236,7 +236,7 @@
          <img src="~assets/img/CARD-THAT-SOLVES.png" class="img-fluid" alt="" >
        </div>
 
-       <div class="col-md-6 mt-4">
+       <div class="col-md-6 mt-4 px-4">
          <span style="color: #003399;" class="ml13">BoundlessPay Card</span>
          <h2 class="py-1 " style="font-size: 45px">Card that solves <br> everything</h2>
          <p>Get the freedom to make quick and easy payments, earn <br class="d-none d-sm-block"> money, spend smart, and save more.</p>
