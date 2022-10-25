@@ -56,7 +56,7 @@
                   <n-link to="#">Support</n-link>
                 </p>
                 <p>
-                  <n-link to="#">Blog</n-link>
+                  <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a">Blog</a>
                 </p>
 
               </div>
@@ -93,11 +93,21 @@
       </div>
 
       <div class="d-lg-flex half-black justify-content-end ml-auto mt-lg-n3 pb-5">
-        <img src="~assets/img/telegram.svg" alt="">
-        <img src="~assets/img/twitter.svg" alt="">
-        <img src="~assets/img/instagram.svg" alt="">
-        <img src="~assets/img/facebook.svg" alt="">
-        <img src="~assets/img/linkden.svg" alt="">
+
+        <a href="https://twitter.com/boundlesspay" target="https://twitter.com/boundlesspay">
+          <img src="~assets/img/telegram.svg" alt="">
+        </a>
+        <a href="https://www.instagram.com/boundlesspay/" target="https://www.instagram.com/boundlesspay/">
+          <img src="~assets/img/instagram.svg" alt="">
+        </a>
+        <a href="https://www.facebook.com/boundlesspayofficial/" target="https://www.facebook.com/boundlesspayofficial/">
+          <img src="~assets/img/facebook.svg" alt="">
+        </a>
+
+        <a href="https://www.linkedin.com/company/boundlesspay/" target="https://www.linkedin.com/company/boundlesspay/">
+          <img src="~assets/img/linkden.svg" alt="">
+        </a>
+
       </div>
     </div>
   </footer>
