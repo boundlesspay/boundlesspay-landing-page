@@ -18,7 +18,7 @@
           </div>
         </div>
 
-        <div class="col-md-6 mt-n5">
+        <div class="col-md-6 mt-n2">
           <img src="~assets/img/Nexus-token.png" class="img-fluid" width="670" alt="">
         </div>
       </div>
