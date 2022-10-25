@@ -21,7 +21,7 @@
 
          <div class="col-md-5 wrapper">
            <div class="swirl mt-n2">
-             <img src="~assets/img/home-page-img.png" class="animate__lightSpeedInRight animate__animated" width="490" alt="">
+             <img src="~assets/img/home-page-img.png" class="animate__lightSpeedInRight animate__animated img-mobile" width="490" alt="">
              <img src="~assets/img/underbackground.png" class="under-img" alt="">
            </div>
          </div>
@@ -499,6 +499,17 @@ button:hover {
     position: relative;
     left: 70px;
     top: 0px;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .buy-sell {
+    position: relative;
+    left: -25px;
+    top: 0px;
+  }
+  .img-mobile {
+    margin-top: 20px;
   }
 }
 

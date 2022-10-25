@@ -2,7 +2,7 @@
   <div class="">
     <div class="container coin-swap mt-lg-3">
       <div class="row">
-        <div class="col-md-6 mt-5 px-4">
+        <div class="col-md-6 mt-lg-5 mt-3 px-lg-4 px-2">
           <h1>Easily and quickly transfer money to <br class="d-none d-sm-block"> anyone</h1>
           <p>Send money online from Africa to the UK and other <br class="d-none d-sm-block"> part of the world with ease. </p>
           <div class="d-flex mt-4 mb-5">
@@ -19,7 +19,7 @@
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
       <div class="container switch pt-5">
-        <h2 class="font-weight-bold pt-3 ml-2" style="font-size: 37px">Free crypto wallets for all your <br class="d-none d-sm-block"> international transactions.</h2>
+        <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Free crypto wallets for all your <br class="d-none d-sm-block"> international transactions.</h2>
         <div class="row">
           <div class="col-md-6 px-4 ">
             <div class="mt-5 ">
@@ -58,7 +58,7 @@
           </div>
         </div>
 
-        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img" width="300" alt="">
+        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img d-none d-sm-block" width="300" alt="">
 
         <div class="col-md-4 top">
           <div class="h-100">
@@ -68,7 +68,7 @@
           </div>
         </div>
 
-        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img1" width="300" alt="">
+        <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img1 d-none d-sm-block" width="300" alt="">
 
         <div class="col-md-4 top" >
           <div class=" h-100">

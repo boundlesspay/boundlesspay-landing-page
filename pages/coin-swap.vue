@@ -2,8 +2,8 @@
   <div class="">
     <div class="container coin-swap mt-lg-3">
         <div class="row">
-          <div class="col-md-6 mt-5 px-4 animate__shakeX animate__animated">
-            <h1 >Convert your crypto <br class=""> easily and fast!</h1>
+          <div class="col-md-6 mt-lg-5 mt-3 px-4 animate__shakeX animate__animated">
+            <h1 >Convert your crypto <br class="d-none d-sm-block"> easily and fast!</h1>
             <p>Receive payments from anywhere, and convert them <br class="d-none d-sm-block">
               to your local currency or other currencies.</p>
             <div class="d-flex mt-4 mb-5">
