@@ -2,7 +2,7 @@
   <div>
     <div class="container mt-5 pt-5">
       <div class="row">
-        <div class="col-md-6 mt-5 px-4">
+        <div class="col-md-6 mt-5 pt-3 px-4">
           <h1>Get the Most out of BoundlessPay Native Token</h1>
           <p>The NEXUS Token is the key to unlocking the full potentials of Boundlesspay.
             Get even higher earning rates and lowest borrowing rates.</p>
