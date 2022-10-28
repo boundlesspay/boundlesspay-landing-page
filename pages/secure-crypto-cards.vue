@@ -6,8 +6,8 @@
           <h1> Make payments like a local with your crypto cards</h1>
           <p class="pt-2">Open a global bank account for free to receive and make foreign payments or convert cryptocurrencies, all in one place.</p>
           <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/Mobile app store badge (4).png" class="img-fluid" alt=""> </div>
+            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
+            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </a>
           </div>
         </div>
 

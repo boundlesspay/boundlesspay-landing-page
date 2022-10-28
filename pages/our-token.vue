@@ -2,21 +2,21 @@
   <div>
     <div class="container mt-5 pt-5">
       <div class="row">
-        <div class="col-md-6 mt-5 pt-lg-3 px-lg-4 px-3"  data-aos="fade-up"
+        <div class="col-md-6 mt-5 pt-lg-3 px-lg-4 px-3" data-aos="fade-up"
              data-aos-duration="2000" data-aos-offset="300"
              data-aos-easing="ease-in-sine">
           <h1>Get the Most out of BoundlessPay Native Token</h1>
           <p>The NEXUS Token is the key to unlocking the full potentials of Boundlesspay.
             Get even higher earning rates and lowest borrowing rates.</p>
           <div class="d-flex mt-4 mb-5">
-            <div>
+            <a href="https://boundlesspay.com/wp-content/uploads/2022/04/Pitch-Deck-1.pdf" target="https://boundlesspay.com/wp-content/uploads/2022/04/Pitch-Deck-1.pdf">
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Whitepaper</button>
-            </div>
-            <div class="ml-2">
+            </a>
+            <a href="https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/tree/main/BoundlessPay" target="https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/tree/main/BoundlessPay" class="ml-2">
               <button class="btn" style="border: 0.5px solid #000000; border-radius: 4px;">
                 SC Audit Report
               </button>
-            </div>
+            </a>
           </div>
         </div>
 

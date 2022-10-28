@@ -96,16 +96,16 @@
      <h2 class="text-center font-weight-bold " style="font-size: 38px">Manage your Portfolio</h2>
    </div>
 
-   <div class="container px-5 pt-4 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;" id="tabss">
+   <div class="container px-5 pt-4 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;" id="tabs">
      <ul class="row pt-3" >
-       <li><a href="#tab5" class="buy" >Buy & Sell crypto</a></li>
-       <li><a href="#tab6" class="buy">Send & Recieve crypto</a></li>
-       <li><a href="#tab7" class="buy" >Get realtime price updates</a></li>
-       <li><a href="#tab8" class="buy" >Enjoy secure escrow services</a></li>
+       <li><a href="#tab1" class="buy" >Buy & Sell crypto</a></li>
+       <li><a href="#tab2" class="buy">Send & Recieve crypto</a></li>
+       <li><a href="#tab3" class="buy" >Get realtime price updates</a></li>
+       <li><a href="#tab4" class="buy" >Enjoy secure escrow services</a></li>
      </ul>
 
 
-     <div  id="tab5">
+     <div  id="tab1">
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5">
@@ -116,13 +116,13 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-4" >
+         <div class="col-md-6 mt-2" >
            <img src="~assets/img/crypto-img.png" class="buy-sell" width="400" alt="" >
          </div>
        </div>
      </div>
 
-     <div  id="tab6">
+     <div  id="tab2">
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5">
@@ -133,13 +133,13 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-4">
-           <img src="~assets/img/Refer-1.png" class="buy-sell" width="430" alt="" >
+         <div class="col-md-6 mt-2">
+           <img src="~assets/img/send-recieve.png" class="buy-sell" width="430" alt="" >
          </div>
        </div>
      </div>
 
-     <div  id="tab7">
+     <div  id="tab3">
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5">
@@ -150,13 +150,13 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-4">
-           <img src="~assets/img/Earn-1.png" class="buy-sell" width="400" alt="" >
+         <div class="col-md-6 mt-2">
+           <img src="~assets/img/ReaLTIME UPDATES .png" class="buy-sell" width="400" alt="" >
          </div>
        </div>
      </div>
 
-     <div  id="tab8">
+     <div  id="tab4">
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5">
@@ -167,8 +167,8 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-3" >
-           <img src="~assets/img/Staking-1.png" class="buy-sell" width="400" alt="" >
+         <div class="col-md-6 mt-2" >
+           <img src="~assets/img/escrow services.png" class="buy-sell" width="400" alt="" >
          </div>
        </div>
      </div>
@@ -243,86 +243,7 @@
      <h2 class="text-center font-weight-bold " style="font-size: 40px">Better savings and earning opportunities</h2>
    </div>
 
-
-
-   <div class="container px-5 pt-4 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;" id="tabs">
-     <ul class="row pt-3" >
-       <li><a href="#tab1" class="buy" >Grow your money</a></li>
-       <li><a href="#tab2" class="buy">Access loans faster</a></li>
-       <li><a href="#tab3" class="buy" >Earn with ease</a></li>
-       <li><a href="#tab4" class="buy" >Stake</a></li>
-       <li><a  class="buy" ></a></li>
-     </ul>
-
-
-       <div  id="tab1">
-         <div class="row">
-           <div class="col-md-6">
-             <div class="pl-3 mt-5">
-               <h2 class="" style="font-size: 35px">Grow Your Money</h2>
-               <p class="pt-3" style="color: #000000;opacity: 0.8;">Inflow Finance, using Mono Connect, allows thousands of users to understand and manage their finances across multiple accounts all in one place.</p>
-               <p class="pt-2" style="color: #000000;opacity: 0.8;">Just by linking their financial accounts to the Inflow app
-                 using Mono, Inflow's users can now get a better view of their financial health by monitoring real-time balances
-                 and transactions across accounts, create budgets, and get personal insights on their spending habits</p>
-             </div>
-           </div>
-           <div class="col-md-6 mt-4" >
-             <img src="~assets/img/escrow-services.png" class="buy-sell" width="380" alt="" >
-           </div>
-         </div>
-       </div>
-
-       <div  id="tab2">
-         <div class="row">
-           <div class="col-md-6">
-             <div class="pl-3 mt-5">
-               <h2 style="font-size: 35px" >Access Loans Faster</h2>
-               <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-               <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-                 They get cash flow on the accounts for up to 12 months,
-                 all seamlessly without writing a single line of code</p>
-             </div>
-           </div>
-           <div class="col-md-6 mt-4">
-             <img src="~assets/img/Refer-1.png" class="buy-sell" width="430" alt="" >
-           </div>
-         </div>
-       </div>
-
-       <div  id="tab3">
-         <div class="row">
-           <div class="col-md-6">
-             <div class="pl-3 mt-5">
-               <h2 style="font-size: 35px">Earn with ease</h2>
-               <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-               <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-                 They get cash flow on the accounts for up to 12 months,
-                 all seamlessly without writing a single line of code</p>
-             </div>
-           </div>
-           <div class="col-md-6 mt-4">
-             <img src="~assets/img/Earn-1.png" class="buy-sell" width="400" alt="" >
-           </div>
-         </div>
-       </div>
-
-       <div  id="tab4">
-         <div class="row">
-           <div class="col-md-6">
-             <div class="pl-3 mt-5">
-               <h2 style="font-size: 35px">Stake</h2>
-               <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-               <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-                 They get cash flow on the accounts for up to 12 months,
-                 all seamlessly without writing a single line of code</p>
-             </div>
-           </div>
-           <div class="col-md-6 mt-3" >
-             <img src="~assets/img/Staking-1.png" class="buy-sell" width="400" alt="" >
-           </div>
-         </div>
-       </div>
-   </div>
+   <growMoney />
 
    <div class="container mt-5 pt-5">
      <div class="row">
@@ -353,41 +274,6 @@
        </div>
      </div>
    </div>
-
-<!--   <div id="tabs">-->
-<!--     <ul>-->
-<!--       <li><a href="#tab1">Title 1</a></li>-->
-<!--       <li><a href="#tab2">Title 2</a></li>-->
-<!--       <li><a href="#tab3">Title 3</a></li>-->
-<!--       <li><a href="#tab4">Title 4</a></li>-->
-<!--       <li><a href="#tab5">Title 5</a></li>-->
-<!--     </ul>-->
-<!--     <div id="tab1">-->
-<!--       <p>-->
-<!--         tab1 contents tab1 contents tab1 contents tab1 contents tab1 contents-->
-<!--       </p>-->
-<!--     </div>-->
-<!--     <div id="tab2">-->
-<!--       <p>-->
-<!--         tab2 contents tab2 contents tab2 contents tab2 contents tab2 contents-->
-<!--       </p>-->
-<!--     </div>-->
-<!--     <div id="tab3">-->
-<!--       <p>-->
-<!--         tab3 contents tab3 contents tab3 contents tab3 contents tab3 contents-->
-<!--       </p>-->
-<!--     </div>-->
-<!--     <div id="tab4">-->
-<!--       <p>-->
-<!--         tab4 contents tab4 contents tab4 contents tab4 contents tab4 contents-->
-<!--       </p>-->
-<!--     </div>-->
-<!--     <div id="tab5">-->
-<!--       <p>-->
-<!--         tab5 contents tab5 contents tab5 contents tab5 contents tab5 contents-->
-<!--       </p>-->
-<!--     </div>-->
-<!--   </div>-->
 
    <div class="container mb-5" style="background: #000000; border-radius: 14px; margin-top: 100px">
      <div class="row ">
@@ -431,8 +317,9 @@
 </template>
 
 <script>
+import growMoney from "../components/growMoney";
 export default {
-
+    components: {growMoney},
   data() {
     return {
       showWalletAddressForm:false,
@@ -592,7 +479,7 @@ button:hover {
   .buy-sell {
     position: relative;
     left: 70px;
-    top: 0px;
+    top: 14px;
   }
 }
 
