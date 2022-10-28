@@ -486,7 +486,7 @@ button:hover {
 @media screen and (max-width: 780px) {
   .buy-sell {
     position: relative;
-    left: -25px;
+    left: -50px;
     top: 0px;
   }
   .img-mobile {
