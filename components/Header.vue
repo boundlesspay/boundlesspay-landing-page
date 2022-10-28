@@ -2,9 +2,9 @@
   <div>
     <b-navbar toggleable="lg" class="pt-2">
       <div class="container-fluid">
-        <b-navbar-brand to="/" class="ml-n2">
-          <img loading="lazy" src="~/assets/img/BPAY-WHITE.png" width="230px" class="img-fluid d-none d-md-inline mt-n2 pb-2" alt="">
-          <img loading="lazy" src="~/assets/img/BPAY-WHITE.png" width="200px" class="img-fluid d-md-none" alt="">
+        <b-navbar-brand to="/" class="ml-n2 py-3">
+          <img loading="lazy" src="~/assets/img/Bpay logo adjusted.png" width="230px" class="img-fluid d-none d-md-inline mt-n1 pb-2" alt="">
+          <img loading="lazy" src="~/assets/img/Bpay logo adjusted.png" width="200px" class="img-fluid d-md-none" alt="">
         </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>

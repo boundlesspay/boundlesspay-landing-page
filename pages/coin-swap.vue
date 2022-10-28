@@ -2,9 +2,11 @@
   <div class="">
     <div class="container coin-swap mt-lg-3">
         <div class="row">
-          <div class="col-md-6 mt-lg-5 mt-3 px-4 animate__shakeX animate__animated">
+          <div class="col-md-6 mt-lg-5 mt-3 px-4" data-aos="fade-up"
+               data-aos-duration="2000" data-aos-offset="300"
+               data-aos-easing="ease-in-sine">
             <h1 >Convert your crypto <br class="d-none d-sm-block"> easily and fast!</h1>
-            <p>Receive payments from anywhere, and convert them <br class="d-none d-sm-block">
+            <p class="pt-2">Receive payments from anywhere, and convert them <br class="d-none d-sm-block">
               to your local currency or other currencies.</p>
             <div class="d-flex mt-4 mb-5">
               <div><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </div>
@@ -19,21 +21,21 @@
     </div>
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
-      <div class="container switch pt-5">
+      <div class="container switch pt-5 pb-5">
         <h2 class=" pt-3"  style="font-size: 38px">Switch fast between currencies at the <br> best rate</h2>
         <div class="row">
-          <div class="col-md-6 px-4 pt-lg-3">
-            <div class="mt-5 pt-4">
+          <div class="col-md-6 px-4 pt-lg-3 justify-content-center mx-auto">
+            <div class="mt-5 pt-4" data-aos="fade-left" data-aos-delay="20">
               <h4 class="">Convert your crypto in seconds</h4>
               <p>Receive payments in BTC, BNB and SOL and convert them instantly.
                 Our platform is secure and simple, jsut the way want</p>
             </div>
-            <div class="mt-5">
+            <div class="mt-5" data-aos="fade-left" data-aos-delay="150">
               <h4 class="">No hidden fees. Competitive market rates.</h4>
               <p>Convert your BTC to USDT, MATIC, BNB or any other
                 cryptocurrencies within seconds with no hidden fees.</p>
             </div>
-            <div class="mt-5">
+            <div class="mt-5" data-aos="fade-left" data-aos-delay="300">
               <h4 class="">Seamless funding and withdrawal</h4>
               <p>We offer multiple payment options to fund your account for different currencies.
                 You can also withdraw to your virtual foreign accounts or bank accounts.</p>
@@ -97,8 +99,8 @@
           <p class="pt-3" style="opacity: 0.5; line-height: 30px; font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
             access to better financial services designed to get you to where you need to be.</p>
           <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
+            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
+            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
           </div>
         </div>
         <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"

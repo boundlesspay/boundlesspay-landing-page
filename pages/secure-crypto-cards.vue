@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-md-6 mt-5 px-4">
           <h1> Make payments like a local with your crypto cards</h1>
-          <p>Open a global bank account for free to receive and make foreign payments or convert cryptocurrencies, all in one place.</p>
+          <p class="pt-2">Open a global bank account for free to receive and make foreign payments or convert cryptocurrencies, all in one place.</p>
           <div class="d-flex mt-4 mb-5">
             <div><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </div>
             <div class="ml-2"><img src="~assets/img/Mobile app store badge (4).png" class="img-fluid" alt=""> </div>
@@ -19,7 +19,7 @@
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
       <div class="container switch pt-5">
-        <h2 class="font-weight-bold pt-3 text-center ml12" style="font-size: 40px">How it works</h2>
+        <h2 class="font-weight-bold pt-3 text-center" style="font-size: 40px">How it works</h2>
         <div class="row mt-4">
           <div class="col-md-6 mt-4 justify-content-start mr-auto ml-3">
             <img src="~assets/img/how-it-works.png" class="img-fluid" width="550" alt="">
@@ -196,26 +196,26 @@ export default {
       duration: 1000,
     });
 
-    var textWrapper = document.querySelector('.ml12');
-    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
-
-    anime.timeline({loop: true})
-      .add({
-        targets: '.ml12 .letter',
-        translateX: [40,0],
-        translateZ: 0,
-        opacity: [0,1],
-        easing: "easeOutExpo",
-        duration: 1200,
-        delay: (el, i) => 500 + 30 * i
-      }).add({
-      targets: '.ml12 .letter',
-      translateX: [0,-30],
-      opacity: [1,0],
-      easing: "easeInExpo",
-      duration: 1100,
-      delay: (el, i) => 100 + 30 * i
-    });
+    // var textWrapper = document.querySelector('.ml12');
+    // textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+    //
+    // anime.timeline({loop: true})
+    //   .add({
+    //     targets: '.ml12 .letter',
+    //     translateX: [40,0],
+    //     translateZ: 0,
+    //     opacity: [0,1],
+    //     easing: "easeOutExpo",
+    //     duration: 1200,
+    //     delay: (el, i) => 500 + 30 * i
+    //   }).add({
+    //   targets: '.ml12 .letter',
+    //   translateX: [0,-30],
+    //   opacity: [1,0],
+    //   easing: "easeInExpo",
+    //   duration: 1100,
+    //   delay: (el, i) => 100 + 30 * i
+    // });
   }
 }
 </script>

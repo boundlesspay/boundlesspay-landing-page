@@ -2,7 +2,9 @@
   <div>
     <div class="container mt-5 pt-5">
       <div class="row">
-        <div class="col-md-6 mt-5 pt-lg-3 px-lg-4 px-3">
+        <div class="col-md-6 mt-5 pt-lg-3 px-lg-4 px-3"  data-aos="fade-up"
+             data-aos-duration="2000" data-aos-offset="300"
+             data-aos-easing="ease-in-sine">
           <h1>Get the Most out of BoundlessPay Native Token</h1>
           <p>The NEXUS Token is the key to unlocking the full potentials of Boundlesspay.
             Get even higher earning rates and lowest borrowing rates.</p>
@@ -18,8 +20,8 @@
           </div>
         </div>
 
-        <div class="col-md-6 mt-n2">
-          <img src="~assets/img/Nexus-token.png" class="img-fluid" width="670" alt="">
+        <div class="col-md-6 ml-n5 mt-n5 img-ani">
+          <img src="~assets/img/Nexus-token.png" class="token" width="770" alt="">
         </div>
       </div>
     </div>
@@ -146,8 +148,8 @@
           <p class="pt-3" style="opacity: 0.5; line-height: 30px; font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
             access to better financial services designed to get you to where you need to be.</p>
           <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
+            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
+            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
           </div>
         </div>
         <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"

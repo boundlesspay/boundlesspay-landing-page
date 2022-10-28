@@ -4,12 +4,12 @@
       <div class="row">
         <div class="col-md-6 mt-4  px-lg-4 px-2" style="">
           <h1>Welcome to the World <br class="d-none d-sm-block"> of Global Remittances</h1>
-          <p class="">Boundlesspay is a secure application that turns your cell-phone into a mobile bank.
+          <p class="pt-2">Boundlesspay is a secure application that turns your cell-phone into a mobile bank.
             Its pre-installed digital wallet and debit card enables storing and spending of digital currencies across merchants globally. In addition, you can access crypto loans, pay utilities, invest in digital currencies and have
             \access to other amazing decentralised finance features in one single app.</p>
           <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/Mobile app store badge (4).png" class="img-fluid" alt=""> </div>
+            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
+            <div href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </div>
           </div>
         </div>
 
@@ -20,14 +20,14 @@
     </div>
 
     <div class=" pb-5" style="background: rgba(139, 199, 255, 0.11); margin-top: 90px">
-      <div class="container switch pt-5">
+      <div class="container switch pt-5 pb-5">
         <div class="row mt-5">
 
-          <div class="col-md-6 mt-4 justify-content-start mr-auto "  data-aos="fade-left">
+          <div class="col-md-5 ml-5 mt-4 justify-content-start mr-auto "  data-aos="fade-left">
             <img src="~assets/img/Rectangle 232.png"  class="img-fluid" width="500" alt="">
           </div>
 
-          <div class="col-md-6 px-4 pt-lg-5 mt-5 ">
+          <div class="col-md-6 pt-lg-5 mt-5 px-5">
             <h2>Our Values</h2>
 
             <p>BOur values are the bedrock for all that we do at Bitnob - And that’s why we have 5 Values that form the basis of
@@ -64,8 +64,8 @@
           <p class="pt-3" style="opacity: 0.5; line-height: 30px; font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
             access to better financial services designed to get you to where you need to be.</p>
           <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
+            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
+            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
           </div>
         </div>
         <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"

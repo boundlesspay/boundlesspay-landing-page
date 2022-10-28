@@ -194,6 +194,51 @@ button:hover {
 }
 
 
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+  border: none!Impotant;
+  background: none!important;
+  font-weight: normal;
+  color: #454545;
+}
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+  border-top-right-radius: 3px;
+}
+
+.ui-widget-header {
+  border: none!important;
+  background: none!important;
+  padding: 0px 15px 0px;
+  color: #030000;
+}
+
+ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+  border: none!important;
+  background: none!important;
+  font-weight: normal;
+  color: #030000;
+}
+
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+  color: #003399;
+  font-weight: 700;
+  opacity: 1!important;
+}
+
+.ui-widget-content {
+  border: none!Important;
+  color: #333333;
+  background: #EEEEEE;
+  border-radius: 20px;
+}
+
+.ui-widget {
+  font-family: "SF Pro Rounded", sans-serif!Important;
+  font-size: 1em;
+}
+.ui-tabs {
+  position: relative;
+  padding: 0.2em;
+}
 
 
 

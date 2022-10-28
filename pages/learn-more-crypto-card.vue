@@ -5,58 +5,64 @@
         <div class="col-md-6 mt-lg-5 mt-3 px-lg-4 px-2" data-aos="fade-up"
              data-aos-duration="2000" data-aos-offset="300"
              data-aos-easing="ease-in-sine">
-          <h1>Easily and quickly  transfer <br class="d-none d-sm-block"> money to  anyone</h1>
-          <p class="pt-2">Send money online from Africa to the UK and other <br class="d-none d-sm-block"> part of the world with ease. </p>
-          <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/Mobile app store badge (4).png" class="img-fluid" alt=""> </div>
+          <h1>Pay for Everything You <br class="d-none d-sm-block"> Need With Crypto Card </h1>
+          <p class="pt-2">Experience diverse possiblities and spend without <br class="d-none d-sm-block"> limits with your BoundlessPay Crypto Card. </p>
+          <div class="d-flex mt-4 pt-2 mb-5">
+            <div>
+              <button class="btn text-white" style="background: #003399;border-radius: 4px;">Get it On Web</button>
+            </div>
+            <a class="ml-2" href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </a>
+            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/Mobile app store badge (4).png" class="img-fluid" alt=""> </a>
+
           </div>
         </div>
 
-        <div class="col-md-6">
-          <img src="~assets/img/transfer-money.png" class="img-fluid" alt="">
+        <div class="col-md-6 mt-n5 img-ani">
+          <img src="~assets/img/CARD THAT SOLVES EVERYTHING.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
 
-    <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
+    <div class="mt-lg-n5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
       <div class="container switch pt-5 pb-5">
-        <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Free crypto wallets for all your <br class="d-none d-sm-block"> international transactions.</h2>
+        <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Do More with Your <br class="d-none d-sm-block">  BoundlessPay Crypto Cards.</h2>
         <div class="row">
           <div class="col-md-6 px-4 justify-content-center mx-auto">
             <div class="mt-5 " data-aos="fade-left" data-aos-delay="20">
-              <h4 class="font-weight-bold">Get paid by foreign employers and clients</h4>
-              <p>Use your crypto wallet to receive USDT and other cryptos.
-                Cash out to any bank account globally like a local.</p>
+              <h4 class="font-weight-bold">Spend your crypto like your regular cash</h4>
+              <p>Boundlesspay Crypto Cards takes away conversion hassle. Spend stable
+                coins directly when shopping, making subscriptions, in-store and POS purchases, all on the go.</p>
             </div>
             <div class="mt-5" data-aos="fade-left" data-aos-delay="150">
-              <h4 class="font-weight-bold">Instant currency exchange</h4>
-              <p>Enjoy quick and efficient online foreign exchange transactions.
-                Say goodbye to bank queues and disappointments.</p>
+              <h4 class="font-weight-bold">Make cross-border payments easily</h4>
+              <p>With your virtual or physical crypto cards, you can
+                make borderless payment transactions across the globe without limit.</p>
             </div>
             <div class="mt-5"  data-aos="fade-left" data-aos-delay="300">
-              <h4 class="font-weight-bold">Send and receive money quickly</h4>
-              <p>Enjoy fast global money transfer with your easy to use wallet on BoundlessPay</p>
+              <h4 class="font-weight-bold">Enhanced security</h4>
+              <p>BoundlessPay debit cards are protected with multiple layers of globally
+                accepted security standards delivered by our card partners and Mastercard
+                to ensure that your funds are protected from global security threats.</p>
             </div>
           </div>
 
           <div class="col-md-5 mt-4 justify-content-end ml-auto">
-            <img src="~assets/img/free-crypto.png" class="img-fluid" alt="">
+            <img src="~assets/img/Mask group.png" class="img-fluid" alt="">
           </div>
         </div>
       </div>
     </div>
 
     <div class="container mt-5 pt-5">
-      <h2 class="font-weight-bold" style="font-size: 37px">How to send money globally <br class="d-none d-sm-block"> using BoundlessPay</h2>
+      <h2 class="font-weight-bold" style="font-size: 37px">How to Get BoundlessPay <br class="d-none d-sm-block"> Crypto Card </h2>
       <p>Opening an account has never been this seamless</p>
 
       <div class="row mt-5">
         <div class="col-md-4 ">
           <div class="h-100">
             <img src="~assets/img/Group 298.png" class="img-fluid pt-2" width="65" alt="">
-            <h4 class="pt-4 font-weight-bold">Register in minutes</h4>
-            <p class="pt-2">Sign up online, or in our app with your email address</p>
+            <h4 class="pt-4 font-weight-bold">Create an account</h4>
+            <p class="pt-2">Sign up for a free account on our website or mobile apps (Android or iOS apps).</p>
           </div>
         </div>
 
@@ -65,8 +71,8 @@
         <div class="col-md-4 top">
           <div class="h-100">
             <img src="~assets/img/Group 299.png" class="img-fluid pt-2" width="65" alt="">
-            <h4 class="pt-4 font-weight-bold">Complete KYC verification</h4>
-            <p class="pt-2">Verify your identity using your government-issued ID</p>
+            <h4 class="pt-4 font-weight-bold">Fund your crypto wallet</h4>
+            <p class="pt-2">Verify your account and choose your preferred payment method to fund your crypto wallet.</p>
           </div>
         </div>
 
@@ -75,8 +81,8 @@
         <div class="col-md-4 top" >
           <div class=" h-100">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
-            <h4 class="pt-4 font-weight-bold">Fund and send</h4>
-            <p class="pt-2">Request your crypto virtual cards in few minutes and start spending on your favorites websites at the best rates.</p>
+            <h4 class="pt-4 font-weight-bold">Order the card</h4>
+            <p class="pt-2">Select your preferred virtual card with its transaction limit per month or order your physical card and make payment</p>
           </div>
         </div>
       </div>
