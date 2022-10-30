@@ -116,7 +116,7 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-2" >
+         <div class="col-md-6" >
            <img src="~assets/img/crypto-img.png" class="buy-sell" width="400" alt="" >
          </div>
        </div>
@@ -133,7 +133,7 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-2">
+         <div class="col-md-6 ">
            <img src="~assets/img/send-recieve.png" class="buy-sell" width="430" alt="" >
          </div>
        </div>
@@ -150,7 +150,7 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-2">
+         <div class="col-md-6">
            <img src="~assets/img/ReaLTIME UPDATES .png" class="buy-sell" width="400" alt="" >
          </div>
        </div>
@@ -167,7 +167,7 @@
                all seamlessly without writing a single line of code</p>
            </div>
          </div>
-         <div class="col-md-6 mt-2" >
+         <div class="col-md-6" >
            <img src="~assets/img/escrow services.png" class="buy-sell" width="400" alt="" >
          </div>
        </div>
@@ -479,7 +479,7 @@ button:hover {
   .buy-sell {
     position: relative;
     left: 70px;
-    top: 14px;
+    top: 18px;
   }
 }
 

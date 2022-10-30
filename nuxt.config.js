@@ -35,6 +35,9 @@ export default {
       { src: "https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js" },
       { src: "https://unpkg.com/aos@2.3.1/dist/aos.js" },
       { src: "https://unpkg.com/ityped@0.0.10" },
+      { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" },
+      { src: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" },
+      { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" },
 
     ],
   },
