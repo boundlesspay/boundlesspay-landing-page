@@ -50,7 +50,7 @@
               <h5 class="mb-4">Support</h5>
               <div>
                 <p>
-                  <n-link to="#">FAQS</n-link>
+                  <n-link to="/faq">FAQS</n-link>
                 </p>
                 <p>
                   <n-link to="#">Support</n-link>
