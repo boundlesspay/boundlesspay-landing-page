@@ -11,6 +11,9 @@
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="mx-auto text-white center_ nav-center" >
+            <div class="d-flex">
+              <nuxt-link to="/" class="ml-1 cool-link">Home</nuxt-link>
+            </div>
               <div class="d-flex">
                 <nuxt-link to="/about-us" class="ml-1 cool-link">About</nuxt-link>
               </div>
