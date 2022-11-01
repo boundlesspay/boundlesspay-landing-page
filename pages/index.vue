@@ -96,7 +96,7 @@
      <h2 class="text-center font-weight-bold " style="font-size: 38px">Manage your Portfolio</h2>
    </div>
 
-   <div class="container px-5 pt-4 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;" id="tabs">
+   <div class="container px-5 pt-4 mt-5 mb-5 home-page" style="background: #EEEEEE; border-radius: 20px;" id="tabs">
      <ul class="row pt-3" >
        <li><a href="#tab1" class="buy" >Buy & Sell crypto</a></li>
        <li><a href="#tab2" class="buy">Send & Recieve crypto</a></li>
@@ -333,7 +333,7 @@ export default {
   mounted() {
 
     $(function () {
-      $("#tabs, #tabss").timerTabPanel({timeInterval:1500});
+      $("#tabs").timerTabPanel({timeInterval:1500});
     });
 
     window.ityped.init(document.querySelector('.ityped'),{
@@ -476,7 +476,7 @@ button:hover {
 }
 
 @media screen and (min-width: 800px) {
-  .buy-sell {
+  .home-page .buy-sell {
     position: relative;
     left: 70px;
     top: 18px;

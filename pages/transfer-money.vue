@@ -23,7 +23,7 @@
       <div class="container switch pt-5 pb-5">
         <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Free crypto wallets for all your <br class="d-none d-sm-block"> international transactions.</h2>
         <div class="row">
-          <div class="col-md-6 px-4 justify-content-center mx-auto">
+          <div class="col-md-6 px-4 ">
             <div class="mt-5 " data-aos="fade-left" data-aos-delay="20">
               <h4 class="font-weight-bold">Get paid by foreign employers and clients</h4>
               <p>Use your crypto wallet to receive USDT and other cryptos.
@@ -42,6 +42,35 @@
 
           <div class="col-md-5 mt-4 justify-content-end ml-auto">
             <img src="~assets/img/free-crypto.png" class="img-fluid" alt="">
+          </div>
+        </div>
+      </div>
+
+      <div class="container mt-5 pt-4">
+        <h2 class="text-center" style="font-size: 38px;">A smarter alternative for cross <br> border payments</h2>
+        <p class="text-center pt-2">Settle from markets all over the world, in under 24 hours, directly into your BoundlessPay account.</p>
+
+          <div class="row mt-5 pt-4 mb-4">
+          <div class="col-md-3">
+            <div>
+              <img src="~assets/img/Frame 331.svg" class="img-fluid" width="150">
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div>
+              <img src="~assets/img/Group 332.svg" class="img-fluid"  width="150">
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div>
+              <img src="~assets/img/Group 333.svg" class="img-fluid"  width="230">
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div>
+              <img src="~assets/img/Group 334.svg" class="img-fluid">
+            </div>
           </div>
         </div>
       </div>

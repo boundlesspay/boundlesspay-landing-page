@@ -38,7 +38,7 @@
                   <n-link to="/about-us">About Us</n-link>
                 </p>
                 <p>
-                  <n-link to="#">Careers</n-link>
+                  <n-link to="/careers">Careers</n-link>
                 </p>
                 <p>
                   <n-link to="#">Contact us</n-link>

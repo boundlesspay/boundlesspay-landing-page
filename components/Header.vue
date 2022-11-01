@@ -92,13 +92,13 @@
 
           <b-navbar-nav class="ml-auto  my-lg-0 order-0 top">
             <div class="mt-n3  d-flex align-items-center justify-content-between mt-lg-0">
-                          <a href="#"  class="mr-4 pt-n5 text-white">
-                            Log in
-                          </a>
+<!--                          <a href="#"  class="mr-4 pt-n5 text-white">-->
+<!--                            Log in-->
+<!--                          </a>-->
               <div>
-                <nuxt-link to="#" >
-                  <button class="button btn-1 w-100 mb-2 mt-1">Sign up</button>
-                </nuxt-link>
+                <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096">
+                  <button class="button btn-1 py-2 w-100 mb-2 mt-1" style="border-radius: 20px;">Download on iOS android</button>
+                </a>
               </div>
             </div>
 
@@ -213,6 +213,7 @@ button::before,
 button::after {
   background: #fff;
   content: '';
+  border-radius: 20px;
   position: absolute;
   z-index: -1;
 }
