@@ -7,11 +7,11 @@
   </div>
 
     <div class="my-4 pt-2 d-flex justify-content-center mx-auto">
-      <button style="background: #003399; border-radius: 4px;" class="text-white col-1 w-50 btn">join</button>
+      <button style="background: #003399; border-radius: 4px;" class="text-white col-lg-1 w-50 btn">join</button>
     </div>
 
-    <div class="container mt-5 pt-3 px-5">
-      <div class="px-5">
+    <div class="container mt-5 pt-3 px-lg-5">
+      <div class="px-lg-5">
         <img src="~assets/img/careers-img.png" class="img-fluid" alt="">
 
         <p class="mt-5">
@@ -46,7 +46,7 @@
             <div class="col-md-5 ml-4">
               <img src="~assets/img/Rectangle 256.png" class="img-fluid" width="450" alt="">
             </div>
-            <div class="col-md-6 pt-5 px-4">
+            <div class="col-md-6 pt-5 px-lg-4">
               <p>
                 “Having started working for BoundlessPay in the early start-up days, I could not be more proud
                 to help grow this world class team. BoundlessPay is not just a team, it is a group of people who
@@ -119,7 +119,7 @@
         <img src="~assets/img/Rectangle 257.png" class="img-fluid" alt="">
       </div>
 
-      <div class="col-md-6 ml-5 mt-5 px-3">
+      <div class="col-md-6 ml-lg-5 ml-3 mt-5 px-lg-3 px-2">
         <h2>Join us</h2>
         <p class="pt-3 " style="line-height: 46px;">At BoundlessPay, we believe in equal opportunities for all.
           We’re growing fast and have a number of exciting opportunities across the business -
