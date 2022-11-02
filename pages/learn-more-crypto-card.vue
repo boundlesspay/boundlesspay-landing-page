@@ -27,7 +27,7 @@
       <div class="container switch pt-5 pb-5">
         <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Do More with Your <br class="d-none d-sm-block">  BoundlessPay Crypto Cards.</h2>
         <div class="row">
-          <div class="col-md-6 px-4 justify-content-center mx-auto">
+          <div class="col-md-6 px-4 ">
             <div class="mt-5 " data-aos="fade-left" data-aos-delay="20">
               <h4 class="font-weight-bold">Spend your crypto like your regular cash</h4>
               <p>Boundlesspay Crypto Cards takes away conversion hassle. Spend stable
