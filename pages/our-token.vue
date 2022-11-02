@@ -186,8 +186,8 @@ export default {
 }
 
 @media screen and (max-width: 780px) {
-  .token-img {
-    margin-left: -25px;
+  .token {
+    margin-left: -147px;
   }
 }
 </style>

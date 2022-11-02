@@ -74,7 +74,7 @@
     <h2 class="text-center pt-4">Everything you need to succeed</h2>
 
     <div class="row mt-5 pt-2">
-      <div class="col-md-3">
+      <div class="col-md-3 top">
         <div>
           <img src="~assets/img/Group 340.svg" class="img-fluid" width="40" alt="">
           <h5 class="my-3 font-weight-bold [t-2">Do your best work</h5>
@@ -84,7 +84,7 @@
         </div>
       </div>
 
-      <div class="col-md-3">
+      <div class="col-md-3 top">
         <div>
           <img src="~assets/img/Group 340.svg" class="img-fluid" width="40" alt="">
           <h5 class="my-3 font-weight-bold pt-2">Work flexibly</h5>
@@ -92,7 +92,7 @@
         </div>
       </div>
 
-      <div class="col-md-3">
+      <div class="col-md-3 top">
         <div>
           <img src="~assets/img/Group 340.svg" class="img-fluid" width="40" alt="">
           <h5 class="my-3 font-weight-bold pt-2">Continuous learning</h5>
@@ -101,7 +101,7 @@
         </div>
       </div>
 
-      <div class="col-md-3">
+      <div class="col-md-3 top">
         <div>
           <img src="~assets/img/Group 340.svg" class="img-fluid" width="40" alt="">
           <h5 class="my-3 font-weight-bold pt-2">Best</h5>
