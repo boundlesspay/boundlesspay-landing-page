@@ -149,6 +149,10 @@ button:hover {
   .top {
    margin-top: 20px;
   }
+  .dropdown-menu {
+    margin-right: -270px!Important;
+    margin-top: -1px!important;
+  }
 
 }
 
