@@ -23,8 +23,8 @@
       <div class="container switch pt-5 pb-5">
         <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Free crypto wallets for all your <br class="d-none d-sm-block"> international transactions.</h2>
         <div class="row">
-          <div class="col-md-6 px-4 ">
-            <div class="mt-5 " data-aos="fade-left" data-aos-delay="20">
+          <div class="col-md-6 px-4 pt-4">
+            <div class="mt-5 pt-5" data-aos="fade-left" data-aos-delay="20">
               <h4 class="font-weight-bold">Get paid by foreign employers and clients</h4>
               <p>Use your crypto wallet to receive USDT and other cryptos.
                 Cash out to any bank account globally like a local.</p>
@@ -111,7 +111,7 @@
       </div>
 
       <div class="col-md-4 mt-4 ml-n2">
-        <nuxt-link to="/schools">
+        <nuxt-link to="/">
           <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Get started  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
         </nuxt-link>
       </div>

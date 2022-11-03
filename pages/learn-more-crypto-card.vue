@@ -89,7 +89,7 @@
       </div>
 
       <div class="col-md-4 mt-4 ml-n2">
-        <nuxt-link to="/schools">
+        <nuxt-link to="/">
           <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Get started  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
         </nuxt-link>
       </div>
