@@ -59,7 +59,7 @@
                   <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a">Blog</a>
                 </p>
                 <p>
-                  <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a">Kyc/amf policy</a>
+                  <a href="#">Kyc/amf policy</a>
                 </p>
 
               </div>
