@@ -11,7 +11,7 @@
             <div>
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Get it On Web</button>
             </div>
-            <div class="d-flex  mb-5">
+            <div class="d-flex ml-3 mb-5">
               <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
               <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </a>
             </div>
