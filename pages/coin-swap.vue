@@ -24,7 +24,7 @@
       <div class="container switch pt-5 pb-5">
         <h2 class=" pt-3"  style="font-size: 38px">Switch fast between currencies at the <br> best rate</h2>
         <div class="row">
-          <div class="col-md-6 px-4 pt-lg-3 ">
+          <div class="col-md-6 px-4 pt-lg-5 mt-3 ">
             <div class="mt-5 pt-4" data-aos="fade-left" data-aos-delay="20">
               <h4 class="">Convert your crypto in seconds</h4>
               <p>Receive payments in BTC, BNB and SOL and convert them instantly.
@@ -85,7 +85,7 @@
 
 
       <div class="col-md-4 mt-4 ml-n2">
-        <nuxt-link to="/schools">
+        <nuxt-link to="/">
           <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Get started  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
         </nuxt-link>
       </div>
