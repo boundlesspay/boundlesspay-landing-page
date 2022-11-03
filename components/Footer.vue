@@ -40,9 +40,9 @@
                 <p>
                   <n-link to="/careers">Careers</n-link>
                 </p>
-                <p>
-                  <n-link to="#">Contact us</n-link>
-                </p>
+<!--                <p>-->
+<!--                  <n-link to="#">Contact us</n-link>-->
+<!--                </p>-->
               </div>
             </div>
 
@@ -71,9 +71,9 @@
                 <p>
                   <n-link to="terms-of-use">Terms and conditions</n-link>
                 </p>
-                <p>
-                  <n-link to="#">Contact us</n-link>
-                </p>
+<!--                <p>-->
+<!--                  <n-link to="#">Contact us</n-link>-->
+<!--                </p>-->
               </div>
             </div>
           </div>
