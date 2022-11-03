@@ -12,7 +12,7 @@
             Transactions
            </h1>
 
-           <p class="text-white pt-2 anim1" style="font-size: 20px">Local and international cryptocurrency or fiat payments leveraging <br> blockchain technology.</p>
+           <p class="text-white pt-2 anim1" style="font-size: 20px">Local and international cryptocurrency or fiat payments <br> leveraging  blockchain technology.</p>
            <div class="d-flex mt-4 mb-5 anim1">
              <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
              <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
@@ -31,8 +31,8 @@
 
 
    <div class="container mt-4 pt-3">
-     <div class="global text-center ml12">GLOBAL REMITTANCES</div>
-     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px">A platform for global remittances <br class="d-none d-sm-block"> across the whole world</h2>
+<!--     <div class="global text-center ml12">GLOBAL REMITTANCES</div>-->
+     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px"> A single platform for all <br class="d-none d-sm-block"> your financial needs </h2>
 
      <div class="row mt-4 pt-3">
        <div class="col-md-4 h-100"  data-aos="zoom-in" data-aos-delay="50">
