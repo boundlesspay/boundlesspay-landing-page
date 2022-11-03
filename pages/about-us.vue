@@ -28,7 +28,7 @@
           </div>
 
           <div class="col-md-6 pt-lg-5 mt-5 px-5">
-            <h2>Our Values</h2>
+            <h2 class="mt-lg-4 pt-3">Our Values</h2>
 
             <p>BOur values are the bedrock for all that we do at Bitnob - And that’s why we have 5 Values that form the basis of
               our identity, and guide our interactions with customers,
@@ -40,7 +40,7 @@
         <div class="row mt-5 pt-lg-4">
 
           <div class="col-md-5 mr-4 pt-lg-5 mt-5 justify-content-end ml-auto">
-            <h2  data-aos="fade-left" data-aos-delay="20">Our Mission</h2>
+            <h2 class="mt-lg-4 pt-3"  data-aos="fade-left" data-aos-delay="20">Our Mission</h2>
 
             <p class="pt-3"  data-aos="fade-left" data-aos-delay="120">Our mission is to bring deep liquidity, excellent service and better price
               discovery to
