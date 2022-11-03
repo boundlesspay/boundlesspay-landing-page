@@ -97,7 +97,7 @@
 <!--                          </a>-->
               <div>
                 <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096">
-                  <button class="button btn-1 py-2 w-100 mb-2 mt-1" style="border-radius: 20px;">Download on iOS android</button>
+                  <button class="button btn-1 py-2 w-100 mb-2 mt-1" style="border-radius: 20px;">Download on iOS</button>
                 </a>
               </div>
             </div>
