@@ -109,7 +109,7 @@
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5 pt-5">
-             <h2 class="" style="font-size: 35px">Buy & Sell Crypto</h2>
+             <h2 class="pt-4" style="font-size: 35px">Buy & Sell Crypto</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                They get cash flow on the accounts for up to 12 months,
@@ -126,7 +126,7 @@
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5 pt-5">
-             <h2 style="font-size: 35px" >Send & Recieve Crypto</h2>
+             <h2 style="font-size: 35px" class="pt-4">Send & Recieve Crypto</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                They get cash flow on the accounts for up to 12 months,
@@ -143,7 +143,7 @@
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5 pt-5">
-             <h2 style="font-size: 35px">Get Realtime Updates</h2>
+             <h2 style="font-size: 35px" class="pt-4">Get Realtime Updates</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                They get cash flow on the accounts for up to 12 months,
@@ -160,7 +160,7 @@
        <div class="row">
          <div class="col-md-6">
            <div class="pl-3 mt-5 pt-5">
-             <h2 style="font-size: 35px">Enjoy secure escrow services</h2>
+             <h2 class="pt-4" style="font-size: 35px">Enjoy secure escrow services</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                They get cash flow on the accounts for up to 12 months,

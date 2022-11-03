@@ -12,7 +12,7 @@
 
            <div class="col-md-6 mt-4" v-if="showWalletAddressForm">
              <div class="pl-3 mt-5 pt-5">
-                             <h2 class="" style="font-size: 35px">Send Money Globally</h2>
+                             <h2 class="pt-4" style="font-size: 35px">Send Money Globally</h2>
                              <p class="pt-3" style="color: #000000;opacity: 0.8;">Inflow Finance, using Mono Connect, allows thousands of users to understand and manage their finances across multiple accounts all in one place.</p>
                              <p class="pt-2" style="color: #000000;opacity: 0.8;">Just by linking their financial accounts to the Inflow app
                                using Mono, Inflow's users can now get a better view of their financial health by monitoring real-time balances
@@ -26,7 +26,7 @@
 
            <div class="col-md-6 mt-4" v-if="showEmailForm">
              <div class="pl-3 mt-5 pt-5">
-                             <h2 style="font-size: 35px" >Invest in Mutual Funds</h2>
+                             <h2 class="pt-4" style="font-size: 35px" >Invest in Mutual Funds</h2>
                              <p class="pt-3" style="color: #000000;opacity: 0.8;">Inflow Finance, using Mono Connect, allows thousands of users to understand and manage their finances across multiple accounts all in one place.</p>
                              <p class="pt-2" style="color: #000000;opacity: 0.8;"> Just by linking their financial accounts to the Inflow app using Mono, Inflow's users can now get a better view of their financial health by monitoring real-time balances and transactions across accounts, create budgets,
                                and get personal insights on their spending habits.</p>
@@ -39,7 +39,7 @@
 
            <div class="col-md-6 mt-4" v-if="showPhoneForm">
              <div class="pl-3 mt-5 pt-5">
-                             <h2 style="font-size: 35px">Savings</h2>
+                             <h2 class="pt-4" style="font-size: 35px">Savings</h2>
                              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
                              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                                They get cash flow on the accounts for up to 12 months,
@@ -53,7 +53,7 @@
 
            <div class="col-md-6 mt-4" v-if="showSecurityForm">
              <div class="pl-3 mt-5 pt-5">
-                             <h2 style="font-size: 35px">Staking</h2>
+                             <h2 class="pt-4" style="font-size: 35px">Staking</h2>
                              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
                              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                                They get cash flow on the accounts for up to 12 months,
@@ -67,7 +67,7 @@
 
            <div class="col-md-6 mt-4" v-if="showPreferencesForm">
              <div class="pl-3 mt-5 pt-5">
-                             <h2 style="font-size: 35px">Refer a friend</h2>
+                             <h2 class="pt-4" style="font-size: 35px">Refer a friend</h2>
                              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
                              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
                                They get cash flow on the accounts for up to 12 months,
