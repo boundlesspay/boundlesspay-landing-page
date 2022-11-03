@@ -18,7 +18,7 @@
     </div>
 
     <div class="mt-5 pb-5" style="background: rgba(139, 199, 255, 0.11);">
-      <div class="container switch pt-5">
+      <div class="container switch pt-5 pb-4">
         <h2 class="font-weight-bold pt-3 text-center" style="font-size: 40px">How it works</h2>
         <div class="row mt-4">
           <div class="col-md-6 mt-4 justify-content-start mr-auto ml-3">
