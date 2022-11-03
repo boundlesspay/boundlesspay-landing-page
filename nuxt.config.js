@@ -1,5 +1,6 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
     title: 'boundlesspay-landingPage',
     htmlAttrs: {
@@ -20,7 +21,7 @@ export default {
       {
         rel: 'stylesheet',
         href: 'https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css'
-      },
+      }
 
     ],
 
@@ -39,13 +40,13 @@ export default {
       { src: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" },
       { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" },
 
-    ],
+    ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     "~/assets/css/style.css",
-    'aos/dist/aos.css',
+    'aos/dist/aos.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -64,11 +65,11 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/bootstrap
-    'bootstrap-vue/nuxt',
+    'bootstrap-vue/nuxt'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-    transpile: ['gsap'],
+    transpile: ['gsap']
   }
 }
