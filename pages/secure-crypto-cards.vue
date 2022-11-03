@@ -25,7 +25,7 @@
             <img src="~assets/img/how-it-works.png" class="img-fluid" width="550" alt="">
           </div>
 
-          <div class="col-md-5 mr-4 pt-lg-3 justify-content-end ml-auto">
+          <div class="col-md-5 mr-4 pt-lg-4 mt-lg-3 justify-content-end ml-auto">
             <div class="mt-5 pt-4" data-aos="fade-left" data-aos-delay="20">
               <h4 class="font-weight-bold" >1. &nbsp; Open an account</h4>
               <p>Fund your wallet with any crypto or fiat currency of your choice. </p>
@@ -113,7 +113,7 @@
           </div>
 
           <div class="col-md-5 mr-4 pt-lg-5 mt-5 justify-content-end ml-auto">
-            <h2  data-aos="fade-left" data-aos-delay="20">Switch between cards</h2>
+            <h2 class="pt-lg-4" data-aos="fade-left" data-aos-delay="20">Switch between cards</h2>
 
             <p class="pt-3"  data-aos="fade-left" data-aos-delay="120">Easily switch between local and foreign virtual card types
               or switch to physical debit card at anytime</p>
@@ -159,8 +159,8 @@
       </div>
 
       <div class="col-md-4 mt-4 ml-n2">
-        <nuxt-link to="/schools">
-          <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Get started  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
+        <nuxt-link to="/learn-more-crypto-card">
+          <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Learn More  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
         </nuxt-link>
       </div>
     </div>
