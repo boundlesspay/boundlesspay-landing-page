@@ -11,9 +11,10 @@
             <div>
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Get it On Web</button>
             </div>
-            <a class="ml-2" href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile app store badge (3).png" class="img-fluid" alt=""> </a>
-            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/Mobile app store badge (4).png" class="img-fluid" alt=""> </a>
-
+            <div class="d-flex  mb-5">
+              <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
+              <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </a>
+            </div>
           </div>
         </div>
 
@@ -27,7 +28,7 @@
       <div class="container switch pt-5 pb-5">
         <h2 class="font-weight-bold pt-3 ml-lg-2" style="font-size: 37px">Do More with Your <br class="d-none d-sm-block">  BoundlessPay Crypto Cards.</h2>
         <div class="row">
-          <div class="col-md-6 px-4 ">
+          <div class="col-md-6 px-4 mt-5 pt-3">
             <div class="mt-5 " data-aos="fade-left" data-aos-delay="20">
               <h4 class="font-weight-bold">Spend your crypto like your regular cash</h4>
               <p>Boundlesspay Crypto Cards takes away conversion hassle. Spend stable
