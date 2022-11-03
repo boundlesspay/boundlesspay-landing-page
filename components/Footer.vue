@@ -58,9 +58,7 @@
                 <p>
                   <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a">Blog</a>
                 </p>
-                <p>
-                  <a href="#">Kyc/amf policy</a>
-                </p>
+
 
               </div>
             </div>
@@ -74,9 +72,9 @@
                 <p>
                   <n-link to="terms-of-use">Terms and conditions</n-link>
                 </p>
-<!--                <p>-->
-<!--                  <n-link to="#">Contact us</n-link>-->
-<!--                </p>-->
+                <p>
+                  <a href="#">KCC/AML policy</a>
+                </p>
               </div>
             </div>
           </div>
