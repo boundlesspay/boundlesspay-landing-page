@@ -32,7 +32,7 @@
 
    <div class="container mt-4 pt-3">
 <!--     <div class="global text-center ml12">GLOBAL REMITTANCES</div>-->
-     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px"> A single platform for all <br class="d-none d-sm-block"> your financial needs </h2>
+     <h2 class="text-center font-weight-bold mt-3" style="font-size: 39px"> A single platform for all your financial needs </h2>
 
      <div class="row mt-4 pt-3">
        <div class="col-md-4 h-100"  data-aos="zoom-in" data-aos-delay="50">
@@ -65,7 +65,7 @@
          <div class="card-box pt-5 pb-5 px-5 text-left h-100">
            <img src="~assets/img/borderless-payment.svg" class="img-fluid" alt="">
            <h4 class=" pt-4 pl-1">Money transfer</h4>
-           <div class="sub-text pt-2">Send money directly to any bank account globally.</div>
+           <div class="sub-text pt-2">Send money directly to any bank account from anywhere globally.</div>
            <div class="mt-4">
              <nuxt-link to="/transfer-money"  style="text-decoration: none">
                <button class="button btn-4 w-100 py-2 mb-2">Learn more  <img src="~assets/img/arrow-left.svg" class="img-fluid ml-2" alt=""> </button>
@@ -108,7 +108,7 @@
      <div  id="tab1">
        <div class="row">
          <div class="col-md-6">
-           <div class="pl-3 mt-5">
+           <div class="pl-3 mt-5 pt-5">
              <h2 class="" style="font-size: 35px">Buy & Sell Crypto</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
@@ -125,7 +125,7 @@
      <div  id="tab2">
        <div class="row">
          <div class="col-md-6">
-           <div class="pl-3 mt-5">
+           <div class="pl-3 mt-5 pt-5">
              <h2 style="font-size: 35px" >Send & Recieve Crypto</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
@@ -142,7 +142,7 @@
      <div  id="tab3">
        <div class="row">
          <div class="col-md-6">
-           <div class="pl-3 mt-5">
+           <div class="pl-3 mt-5 pt-5">
              <h2 style="font-size: 35px">Get Realtime Updates</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
@@ -159,7 +159,7 @@
      <div  id="tab4">
        <div class="row">
          <div class="col-md-6">
-           <div class="pl-3 mt-5">
+           <div class="pl-3 mt-5 pt-5">
              <h2 style="font-size: 35px">Enjoy secure escrow services</h2>
              <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
              <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
