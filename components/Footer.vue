@@ -53,7 +53,7 @@
                   <n-link to="/faq">FAQS</n-link>
                 </p>
                 <p>
-                  <n-link to="#">Support</n-link>
+                  <a href="https://chatting.page/cpvlrseec913qel8amvdv8r60fkwizad">Support</a>
                 </p>
                 <p>
                   <a href="https://blog.boundlesspay.com/?gi=c8ff136b070a">Blog</a>
