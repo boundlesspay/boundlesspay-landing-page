@@ -30,7 +30,7 @@
           <div class="col-md-6 pt-lg-5 mt-5 px-5">
             <h2 class="mt-lg-4 pt-3">Our Values</h2>
 
-            <p>BOur values are the bedrock for all that we do at Bitnob - And that’s why we have 5 Values that form the basis of
+            <p>Our values are the bedrock for all that we do at Bitnob - And that’s why we have 5 Values that form the basis of
               our identity, and guide our interactions with customers,
               investors, stakeholders and the general public. These values are Low Ego, Ownership, Grit, Integrity and Crazy.</p>
           </div>
