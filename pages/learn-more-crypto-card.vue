@@ -5,20 +5,20 @@
         <div class="col-md-6 mt-lg-5 mt-3 px-lg-4 px-2" data-aos="fade-up"
              data-aos-duration="2000" data-aos-offset="300"
              data-aos-easing="ease-in-sine">
-          <h1>Pay for Everything You <br class="d-none d-sm-block"> Need With Crypto Card </h1>
+          <h1>Pay for Everything You <br class="d-none d-sm-block"> Need With boundlesspay Crypto Card </h1>
           <p class="pt-2">Experience diverse possiblities and spend without <br class="d-none d-sm-block"> limits with your BoundlessPay Crypto Card. </p>
-          <div class="d-flex mt-4 pt-2 mb-5">
+          <div class="d-lg-flex mt-4 pt-2 mb-5">
             <div>
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Get it On Web</button>
             </div>
-            <div class="d-flex ml-3 mb-5">
+            <div class="d-flex ml-lg-3 mb-5 top">
               <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
               <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </a>
             </div>
           </div>
         </div>
 
-        <div class="col-md-6 mt-n5 img-ani">
+        <div class="col-md-6 mt-lg-n5 img-ani">
           <img src="~assets/img/CARD THAT SOLVES EVERYTHING.png" class="img-fluid" alt="">
         </div>
       </div>

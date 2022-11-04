@@ -12,7 +12,7 @@
             Seamlessly
            </h1>
 
-           <p class="text-white pt-2 anim1" style="font-size: 20px">A crypto banking application for cross border collections, <br> payments and settlements</p>
+           <p class="text-white pt-2 anim1" style="font-size: 20px">A digital banking application for cross border collections, <br> payments and settlements</p>
            <div class="d-flex mt-4 mb-5 anim1">
              <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
              <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
@@ -91,10 +91,10 @@
       </div>
    </div>
 
-   <div class="container mt-5">
-     <div class="global text-center pt-2">CRYPTO</div>
-     <h2 class="text-center font-weight-bold " style="font-size: 38px">Manage your Portfolio</h2>
-   </div>
+<!--   <div class="container mt-5">-->
+<!--     <div class="global text-center pt-2">CRYPTO</div>-->
+<!--     <h2 class="text-center font-weight-bold " style="font-size: 38px">Manage your Portfolio</h2>-->
+<!--   </div>-->
 
 <!--   <div class="container px-5 pt-4 mt-5 mb-5 home-page" style="background: #EEEEEE; border-radius: 20px;" id="tabs">-->
 <!--     <ul class="row pt-3" >-->
