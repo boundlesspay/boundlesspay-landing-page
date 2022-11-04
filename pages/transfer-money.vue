@@ -56,18 +56,18 @@
               <img src="~assets/img/Frame 331.svg" class="img-fluid" width="150">
             </div>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 top">
             <div>
               <img src="~assets/img/Group 332.svg" class="img-fluid"  width="145">
             </div>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 top">
             <div>
               <img src="~assets/img/Group 333.svg" class="img-fluid"  width="210">
             </div>
           </div>
 
-          <div class="col-md-3">
+          <div class="col-md-3 top">
             <div>
               <img src="~assets/img/Group 334.svg" class="img-fluid" width="230">
             </div>

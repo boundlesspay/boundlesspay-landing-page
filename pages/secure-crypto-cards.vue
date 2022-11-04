@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="container coin-swap mt-3">
+    <div class="container coin-swap mt-lg-3">
       <div class="row">
         <div class="col-md-6 mt-5 px-4">
           <h1> Make payments like a local with your crypto cards</h1>
@@ -21,7 +21,7 @@
       <div class="container switch pt-5 pb-4">
         <h2 class="font-weight-bold pt-3 text-center" style="font-size: 40px">How it works</h2>
         <div class="row mt-4">
-          <div class="col-md-6 mt-4 justify-content-start mr-auto ml-3">
+          <div class="col-md-6 mt-4 justify-content-start mr-auto ml-lg-3">
             <img src="~assets/img/how-it-works.png" class="img-fluid" width="550" alt="">
           </div>
 

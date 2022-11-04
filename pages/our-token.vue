@@ -39,7 +39,7 @@
             </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-md-4 top">
             <div style="border: 1px solid #000000; border-radius: 6px;" class="px-4 py-2">
                 <h5>Token type</h5>
                   <div>Cardano network</div>
@@ -55,7 +55,7 @@
             </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-md-4 top">
             <div style="border: 1px solid #000000; border-radius: 6px;" class="px-4 py-2">
               <h5>Hard cap</h5>
               <div>$1,410,000</div>
@@ -71,7 +71,7 @@
             </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-md-4 top">
             <div style="border: 1px solid #000000; border-radius: 6px;" class="px-4 py-2">
               <h5>Initial market cap</h5>
               <div>$210,000</div>
@@ -87,7 +87,7 @@
             </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-md-4 top">
             <div style="border: 1px solid #000000; border-radius: 6px;" class="px-4 py-2">
               <h5>Estimated listing date</h5>
               <div>May, 2022</div>
