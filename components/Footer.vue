@@ -73,7 +73,7 @@
                   <n-link to="terms-of-use">Terms and conditions</n-link>
                 </p>
                 <p>
-                  <a href="#">KYC/AML policy</a>
+                  <a href="/kyc">KYC/AML policy</a>
                 </p>
               </div>
             </div>

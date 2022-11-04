@@ -9,10 +9,10 @@
               data-aos-easing="ease-in-sine">
 
            <h1 class="text-white" style="font-size: 57px"><span class="ityped"></span><br>
-            Transactions
+            Seamlessly
            </h1>
 
-           <p class="text-white pt-2 anim1" style="font-size: 20px">Local and international cryptocurrency or fiat payments <br> leveraging  blockchain technology.</p>
+           <p class="text-white pt-2 anim1" style="font-size: 20px">A crypto banking application for cross border collections, <br> payments and settlements</p>
            <div class="d-flex mt-4 mb-5 anim1">
              <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
              <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
@@ -96,83 +96,83 @@
      <h2 class="text-center font-weight-bold " style="font-size: 38px">Manage your Portfolio</h2>
    </div>
 
-   <div class="container px-5 pt-4 mt-5 mb-5 home-page" style="background: #EEEEEE; border-radius: 20px;" id="tabs">
-     <ul class="row pt-3" >
-       <li><a href="#tab1" class="buy" >Buy & Sell crypto</a></li>
-       <li><a href="#tab2" class="buy">Send & Recieve crypto</a></li>
-       <li><a href="#tab3" class="buy" >Get realtime price updates</a></li>
-       <li><a href="#tab4" class="buy" >Enjoy secure escrow services</a></li>
-     </ul>
+<!--   <div class="container px-5 pt-4 mt-5 mb-5 home-page" style="background: #EEEEEE; border-radius: 20px;" id="tabs">-->
+<!--     <ul class="row pt-3" >-->
+<!--       <li><a href="#tab1" class="buy" >Buy & Sell crypto</a></li>-->
+<!--       <li><a href="#tab2" class="buy">Send & Recieve crypto</a></li>-->
+<!--       <li><a href="#tab3" class="buy" >Get realtime price updates</a></li>-->
+<!--       <li><a href="#tab4" class="buy" >Enjoy secure escrow services</a></li>-->
+<!--     </ul>-->
 
 
-     <div  id="tab1">
-       <div class="row">
-         <div class="col-md-6">
-           <div class="pl-3 mt-5 pt-5">
-             <h2 class="pt-4" style="font-size: 35px">Buy & Sell Crypto</h2>
-             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-               They get cash flow on the accounts for up to 12 months,
-               all seamlessly without writing a single line of code</p>
-           </div>
-         </div>
-         <div class="col-md-6" >
-           <img src="~assets/img/crypto-img.png" class="buy-sell" width="400" alt="" >
-         </div>
-       </div>
-     </div>
+<!--     <div  id="tab1">-->
+<!--       <div class="row">-->
+<!--         <div class="col-md-6">-->
+<!--           <div class="pl-3 mt-5 pt-5">-->
+<!--             <h2 class="pt-4" style="font-size: 35px">Buy & Sell Crypto</h2>-->
+<!--             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>-->
+<!--             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.-->
+<!--               They get cash flow on the accounts for up to 12 months,-->
+<!--               all seamlessly without writing a single line of code</p>-->
+<!--           </div>-->
+<!--         </div>-->
+<!--         <div class="col-md-6" >-->
+<!--           <img src="~assets/img/crypto-img.png" class="buy-sell" width="400" alt="" >-->
+<!--         </div>-->
+<!--       </div>-->
+<!--     </div>-->
 
-     <div  id="tab2">
-       <div class="row">
-         <div class="col-md-6">
-           <div class="pl-3 mt-5 pt-5">
-             <h2 style="font-size: 35px" class="pt-4">Send & Recieve Crypto</h2>
-             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-               They get cash flow on the accounts for up to 12 months,
-               all seamlessly without writing a single line of code</p>
-           </div>
-         </div>
-         <div class="col-md-6 ">
-           <img src="~assets/img/send-recieve.png" class="buy-sell" width="430" alt="" >
-         </div>
-       </div>
-     </div>
+<!--     <div  id="tab2">-->
+<!--       <div class="row">-->
+<!--         <div class="col-md-6">-->
+<!--           <div class="pl-3 mt-5 pt-5">-->
+<!--             <h2 style="font-size: 35px" class="pt-4">Send & Recieve Crypto</h2>-->
+<!--             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>-->
+<!--             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.-->
+<!--               They get cash flow on the accounts for up to 12 months,-->
+<!--               all seamlessly without writing a single line of code</p>-->
+<!--           </div>-->
+<!--         </div>-->
+<!--         <div class="col-md-6 ">-->
+<!--           <img src="~assets/img/send-recieve.png" class="buy-sell" width="430" alt="" >-->
+<!--         </div>-->
+<!--       </div>-->
+<!--     </div>-->
 
-     <div  id="tab3">
-       <div class="row">
-         <div class="col-md-6">
-           <div class="pl-3 mt-5 pt-5">
-             <h2 style="font-size: 35px" class="pt-4">Get Realtime Updates</h2>
-             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-               They get cash flow on the accounts for up to 12 months,
-               all seamlessly without writing a single line of code</p>
-           </div>
-         </div>
-         <div class="col-md-6">
-           <img src="~assets/img/ReaLTIME UPDATES .png" class="buy-sell" width="400" alt="" >
-         </div>
-       </div>
-     </div>
+<!--     <div  id="tab3">-->
+<!--       <div class="row">-->
+<!--         <div class="col-md-6">-->
+<!--           <div class="pl-3 mt-5 pt-5">-->
+<!--             <h2 style="font-size: 35px" class="pt-4">Get Realtime Updates</h2>-->
+<!--             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>-->
+<!--             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.-->
+<!--               They get cash flow on the accounts for up to 12 months,-->
+<!--               all seamlessly without writing a single line of code</p>-->
+<!--           </div>-->
+<!--         </div>-->
+<!--         <div class="col-md-6">-->
+<!--           <img src="~assets/img/ReaLTIME UPDATES .png" class="buy-sell" width="400" alt="" >-->
+<!--         </div>-->
+<!--       </div>-->
+<!--     </div>-->
 
-     <div  id="tab4">
-       <div class="row">
-         <div class="col-md-6">
-           <div class="pl-3 mt-5 pt-5">
-             <h2 class="pt-4" style="font-size: 35px">Enjoy secure escrow services</h2>
-             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>
-             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.
-               They get cash flow on the accounts for up to 12 months,
-               all seamlessly without writing a single line of code</p>
-           </div>
-         </div>
-         <div class="col-md-6" >
-           <img src="~assets/img/escrow services.png" class="buy-sell" width="400" alt="" >
-         </div>
-       </div>
-     </div>
-   </div>
+<!--     <div  id="tab4">-->
+<!--       <div class="row">-->
+<!--         <div class="col-md-6">-->
+<!--           <div class="pl-3 mt-5 pt-5">-->
+<!--             <h2 class="pt-4" style="font-size: 35px">Enjoy secure escrow services</h2>-->
+<!--             <p class="pt-3" style="color: #000000;opacity: 0.8;">Carbon wanted to make their risk assessment and borrower qualification better with high-quality data.</p>-->
+<!--             <p class="pt-2" style="color: #000000;opacity: 0.8;">Using Mono's Statement Pages, Carbon can receive its users' bank statements in minutes.-->
+<!--               They get cash flow on the accounts for up to 12 months,-->
+<!--               all seamlessly without writing a single line of code</p>-->
+<!--           </div>-->
+<!--         </div>-->
+<!--         <div class="col-md-6" >-->
+<!--           <img src="~assets/img/escrow services.png" class="buy-sell" width="400" alt="" >-->
+<!--         </div>-->
+<!--       </div>-->
+<!--     </div>-->
+<!--   </div>-->
 
 <!--   <div class="container px-5 pt-5 mt-5 mb-5" style="background: #EEEEEE; border-radius: 20px;">-->
 <!--     <div class="row">-->
@@ -238,12 +238,12 @@
 <!--     </div>-->
 <!--   </div>-->
 
-   <div class="container mt-5 pt-4">
-     <div class="global text-center pt-2">DEFI</div>
-     <h2 class="text-center font-weight-bold " style="font-size: 40px">Better savings and earning opportunities</h2>
-   </div>
+<!--   <div class="container mt-5 pt-4">-->
+<!--     <div class="global text-center pt-2">DEFI</div>-->
+<!--     <h2 class="text-center font-weight-bold " style="font-size: 40px">Better savings and earning opportunities</h2>-->
+<!--   </div>-->
 
-   <growMoney />
+<!--   <growMoney />-->
 
    <div class="container mt-5 pt-5">
      <div class="row">
@@ -305,9 +305,9 @@
    </div>
 
    <div class="mt-5 pt-4 container">
-     <h2 class="text-center">Grants and Support</h2>
-     <p class="text-center pt-3">We’ve partnered with market leading providers in the crypto market
-       to build a <br> solution specifically for the digital economy.</p>
+     <h2 class="text-center">
+       Grants and Investments</h2>
+     <p class="text-center pt-3">We've been awarded grants, supports and investments by notable blockchain <br> foundations and funds for startup</p>
 
      <div class="d-flex justify-content-center mx-auto">
        <img src="~assets/img/Grants-support.png" class="img-fluid mt-n2" width="1000" alt="">
@@ -317,9 +317,9 @@
 </template>
 
 <script>
-import growMoney from "../components/growMoney";
+// import growMoney from "../components/growMoney";
 export default {
-    components: {growMoney},
+    // components: {growMoney},
   data() {
     return {
       showWalletAddressForm:false,
@@ -337,7 +337,7 @@ export default {
     });
 
     window.ityped.init(document.querySelector('.ityped'),{
-      strings: ['Seamless','Global','Boundless', 'Fast', 'Easy',],
+      strings: ['Send','Receive','Swap', 'Remit', 'Earn',],
       loop: true
     })
 

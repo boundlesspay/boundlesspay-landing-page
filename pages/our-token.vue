@@ -42,7 +42,7 @@
           <div class="col-md-4">
             <div style="border: 1px solid #000000; border-radius: 6px;" class="px-4 py-2">
                 <h5>Token type</h5>
-                  <div>BEP20</div>
+                  <div>Cardano network</div>
             </div>
           </div>
         </div>
@@ -134,7 +134,7 @@
       </div>
 
       <div class="col-md-4 mt-4 ml-n2">
-        <nuxt-link to="/schools">
+        <nuxt-link to="/">
           <button class="button btn w-50 mb-2 mt-1 text-white" style="background: #003399; border-radius: 4px;">Get started  <img src="~assets/img/check-white.svg" class="img-fluid ml-2" alt=""> </button>
         </nuxt-link>
       </div>

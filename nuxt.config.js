@@ -2,7 +2,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
   head: {
-    title: 'boundlesspay-landingPage',
+    title: 'boundlesspay',
     htmlAttrs: {
       lang: 'en'
     },
@@ -39,6 +39,7 @@ export default {
       { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" },
       { src: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" },
       { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" },
+      { src: "//code.tidio.co/cpvlrseec913qel8amvdv8r60fkwizad.js"},
 
     ]
   },
