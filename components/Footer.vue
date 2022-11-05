@@ -94,8 +94,11 @@
       </div>
 
       <div class="d-lg-flex half-black justify-content-end ml-auto mt-lg-n3 pb-5">
-
         <a href="https://twitter.com/boundlesspay" target="https://twitter.com/boundlesspay">
+          <img src="~assets/img/Round icons (4).svg" alt="">
+        </a>
+
+        <a href="https://t.me/boundlesspay_official" target="https://t.me/boundlesspay_official">
           <img src="~assets/img/telegram.svg" alt="">
         </a>
         <a href="https://www.instagram.com/boundlesspay/" target="https://www.instagram.com/boundlesspay/">
