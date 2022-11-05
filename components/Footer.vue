@@ -40,9 +40,9 @@
                 <p>
                   <n-link to="/careers">Careers</n-link>
                 </p>
-<!--                <p>-->
-<!--                  <n-link to="#">Contact us</n-link>-->
-<!--                </p>-->
+                <p>
+                  <n-link to="/contact-us">Contact us</n-link>
+                </p>
               </div>
             </div>
 
