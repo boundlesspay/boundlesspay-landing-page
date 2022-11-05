@@ -7,24 +7,23 @@
       <div class="col-md-6">
         <div>
           <h2>Company address</h2>
-          <p style="line-height: 40px">403 Oxford Building, Jumeriah Village Circle (JVC), Dubai, United Arab Emirates. <br>
-
-            6th Floor 2 Kingdom Street, London, United Kingdom, W2 6JP</p>
+          <p style="line-height: 40px"><i class="fa fa-map-marker" aria-hidden="true"></i> 403 Oxford Building, Jumeriah Village Circle (JVC), Dubai, United Arab Emirates. <br></p>
+          <p><i class="fa fa-map-marker" aria-hidden="true"></i> Boundlesspay HQ, Block C, River stone estate, Orchid Road, Lekki, Lagos, Nigeria</p>
 
           <div class="d-flex">
             <img src="~assets/img/phone.svg" class="img-fluid" alt="">
-            <p class="pt-2 ml-2" >+2349150762004 &nbsp; +447451288551</p>
+            <p class="pt-3 ml-2" >+2349150762004 &nbsp; +447451288551</p>
           </div>
           <div class="d-flex mt-2">
             <img src="~assets/img/email.svg" class="img-fluid" alt="">
-            <p class="pt-2 ml-2">info@boundlesspay.com</p>
+            <p class="pt-3 ml-3">info@boundlesspay.com</p>
           </div>
         </div>
       </div>
 
       <div class="col-md-4 justify-content-end ml-auto">
         <div>
-          <img src="~assets/img/location (1).png" class="img-fluid" alt="">
+          <img src="~assets/img/location1.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
@@ -45,7 +44,7 @@
               <img src="~assets/img/instagram-black.svg" alt="">
             </a>
             <a href="https://www.facebook.com/boundlesspayofficial/" target="https://www.facebook.com/boundlesspayofficial/">
-              <img src="~assets/img/vector (18).svg" alt="">
+              <img src="~assets/img/Vector (18).svg" alt="">
             </a>
 
             <a href="https://www.linkedin.com/company/boundlesspay/" target="https://www.linkedin.com/company/boundlesspay/">
