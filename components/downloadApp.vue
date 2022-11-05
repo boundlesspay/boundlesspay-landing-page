@@ -13,7 +13,8 @@
       </div>
       <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
            data-aos-offset="0">
-        <img src="~assets/img/iphone-14 1.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
+        <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
+<!--        <img src="~assets/img/iphone-14 1.png" alt="" width="390" class="img-fluid img-top mt-n5 ">-->
       </div>
     </div>
   </div>
