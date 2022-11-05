@@ -287,7 +287,7 @@
      </div>
    </div>
 
-   <div class="mt-5 pt-4 container mb-5 pb-5 partners">
+   <div class="mt-5 pt-4 container mb-5  partners">
      <h2 class="text-center">
        Grants and Backers</h2>
      <p class="text-center pt-3">We've have received grants, supports and investments by notable blockchain <br> foundations and funds.</p>

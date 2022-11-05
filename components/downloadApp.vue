@@ -1,5 +1,5 @@
 <template>
-  <div class="container frame" style=" margin-top: 60px">
+  <div class="container frame " style=" margin-top: 100px">
     <div class="row ">
       <div class="col-md-6 px-5 pt-5">
         <span class="text-white">Ready to get started?</span>
