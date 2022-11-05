@@ -51,7 +51,7 @@
        <div class="col-md-4 h-100" data-aos="zoom-in" data-aos-delay="250">
          <div class="card-box pt-5 pb-5 px-5 text-left h-100">
            <img src="~assets/img/coin-swap.svg" class="img-fluid" alt="">
-           <h4 class=" pt-4 pl-1">Coin swap</h4>
+           <h4 class=" pt-4 pl-1">Currency swap</h4>
            <div class="sub-text pt-2">Swap from one cryptocurrencies to another seamlessly with ease and peace of mind.</div>
            <div class="mt-4">
              <nuxt-link to="/coin-swap" style="text-decoration: none" >
@@ -306,7 +306,7 @@
 
    <div class="mt-5 pt-4 container">
      <h2 class="text-center">
-       Grants and Investments</h2>
+       Grants and Backers</h2>
      <p class="text-center pt-3">We've have received grants, supports and investments by notable blockchain <br> foundations and funds.</p>
 
      <div class="d-flex justify-content-center mx-auto">
@@ -337,7 +337,7 @@ export default {
     });
 
     window.ityped.init(document.querySelector('.ityped'),{
-      strings: ['Send','Receive','Swap', 'Remit', 'Earn',],
+      strings: ['Send','Receive','Swap', 'Remit', 'Earn', 'Pay',],
       loop: true
     })
 

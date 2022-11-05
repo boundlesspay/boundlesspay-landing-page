@@ -56,7 +56,7 @@
                             <img src="~assets/img/crypto-card-icon.svg" alt="">
                           </div>
                           <div class="ml-3 mt-n1">
-                            <div style="font-size: 19px">Coin swap</div>
+                            <div style="font-size: 19px">Currency swap</div>
                             <span>Make exclusive payments online with your virtual <br> crypto cards</span>
                           </div>
                         </div>

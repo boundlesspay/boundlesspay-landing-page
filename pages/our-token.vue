@@ -90,7 +90,7 @@
           <div class="col-md-4 top">
             <div style="border: 1px solid #000000; border-radius: 6px;" class="px-4 py-2">
               <h5>Estimated listing date</h5>
-              <div>May, 2022</div>
+              <div>TBA</div>
             </div>
           </div>
         </div>
