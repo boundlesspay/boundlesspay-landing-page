@@ -1,5 +1,5 @@
 <template>
-  <div class="container frame " style=" margin-top: 100px">
+  <div class="container mb-5 frame" style="background: #131313; border-radius: 14px; margin-top: 100px">
     <div class="row ">
       <div class="col-md-6 px-5 pt-5">
         <span class="text-white">Ready to get started?</span>
@@ -13,7 +13,7 @@
       </div>
       <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
            data-aos-offset="0">
-        <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
+        <img src="~assets/img/iphone-14 1.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
       </div>
     </div>
   </div>
@@ -26,26 +26,13 @@ export default {
 </script>
 
 <style scoped>
-.frame {
-  background-image: url("~assets/img/Frame 2896.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  border-radius: 0px 20px 20px 20px!important;
-  height: 450px;
-  padding-top: 29px;
-  /*padding-bottom: 50px;*/
-}
-
-@media screen and (max-width: 780px) {
-  .frame {
-    background-image: url("~assets/img/Frame 2896.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 0px 20px 20px 20px!important;
-    height: 900px!important;
-    padding-top: 40px;
-    margin-top: 90px!important;
-    /*padding-bottom: 50px;*/
-  }
-}
+/*.frame {*/
+/*  background-image: url("~assets/img/Frame 2895.png");*/
+/*  background-size: cover;*/
+/*  background-repeat: no-repeat;*/
+/*  border-radius: 14px;*/
+/*  height: 608px;*/
+/*  padding-top: 130px;*/
+/*  !*padding-bottom: 50px;*!*/
+/*}*/
 </style>

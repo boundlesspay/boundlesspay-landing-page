@@ -77,7 +77,7 @@
      </div>
    </div>
 
-   <div class="container " style="background: #0A1A55; border-radius: 14px; margin-top: 100px">
+   <div class="container " style="background: #131313; border-radius: 14px; margin-top: 100px">
       <div class="row ">
         <div class="col-md-6 pt-5 px-lg-5 m-4">
           <h1 class="text-white " style="font-size: 39px">A world with no Bounds</h1>
