@@ -7,8 +7,8 @@
       <div class="col-md-6">
         <div>
           <h2>Company address</h2>
-          <p style="line-height: 40px"><i class="fa fa-map-marker" aria-hidden="true"></i> 403 Oxford Building, Jumeriah Village Circle (JVC), Dubai, United Arab Emirates. <br></p>
-          <p><i class="fa fa-map-marker" aria-hidden="true"></i> Boundlesspay HQ, Block C, River stone estate, Orchid Road, Lekki, Lagos, Nigeria</p>
+          <p style="line-height: 40px"><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp; &nbsp; 403 Oxford Building, Jumeriah Village Circle (JVC), Dubai, United Arab Emirates. <br></p>
+          <p><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp; &nbsp; Boundlesspay HQ, Block C, River stone estate, Orchid Road, Lekki, Lagos, Nigeria</p>
 
           <div class="d-flex">
             <img src="~assets/img/phone.svg" class="img-fluid" alt="">
