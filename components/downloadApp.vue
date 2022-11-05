@@ -1,5 +1,5 @@
 <template>
-  <div class="container frame" style=" margin-top: 0px">
+  <div class="container frame" style=" margin-top: 60px">
     <div class="row ">
       <div class="col-md-6 px-5 pt-5">
         <span class="text-white">Ready to get started?</span>
@@ -31,8 +31,21 @@ export default {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0px 20px 20px 20px!important;
-  height: 680px;
-  padding-top: 130px;
+  height: 450px;
+  padding-top: 29px;
   /*padding-bottom: 50px;*/
+}
+
+@media screen and (max-width: 780px) {
+  .frame {
+    background-image: url("~assets/img/Frame 2896.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0px 20px 20px 20px!important;
+    height: 900px!important;
+    padding-top: 40px;
+    margin-top: 90px!important;
+    /*padding-bottom: 50px;*/
+  }
 }
 </style>

@@ -165,30 +165,15 @@
       </div>
     </div>
 
-    <div class="container mb-5" style="background: #000000; border-radius: 14px; margin-top: 100px">
-      <div class="row ">
-        <div class="col-md-6 px-5 pt-5">
-          <span class="text-white">Ready to get started?</span>
-          <h2 class="text-white pt-2">Download the App to start exploring</h2>
-          <p class="pt-3" style="opacity: 0.5; line-height: 30px; font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
-            access to better financial services designed to get you to where you need to be.</p>
-          <div class="d-flex mt-4 mb-5">
-            <div><img src="~assets/img/Mobile-app-badge.png" class="img-fluid" alt=""> </div>
-            <div class="ml-2"><img src="~assets/img/app-store.png" class="img-fluid" alt=""> </div>
-          </div>
-        </div>
-        <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
-             data-aos-offset="0">
-          <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
-        </div>
-      </div>
-    </div>
+    <downloadApp />
   </div>
 </template>
 
 <script>
+import downloadApp from "../components/downloadApp.vue";
 export default {
   name: "coin-swap",
+  components: {downloadApp},
 
   mounted() {
     AOS.init({

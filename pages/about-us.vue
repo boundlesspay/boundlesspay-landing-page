@@ -23,11 +23,11 @@
       <div class="container switch pt-5 pb-5">
         <div class="row mt-5">
 
-          <div class="col-md-5 ml-5 mt-4 justify-content-start mr-auto "  data-aos="fade-left">
+          <div class="col-md-5 ml-lg-5 mt-4 justify-content-start mr-auto "  data-aos="fade-left">
             <img src="~assets/img/Rectangle 232.png"  class="img-fluid" width="500" alt="">
           </div>
 
-          <div class="col-md-6 pt-lg-5 mt-5 px-5">
+          <div class="col-md-6 pt-lg-5 mt-5 px-3 px-lg-5">
             <h2 class="mt-lg-4 pt-3">Our Values</h2>
 
             <p>Our values are the bedrock for all that we do at Bitnob - And that’s why we have 5 Values that form the basis of
@@ -56,30 +56,15 @@
     </div>
 
 
-    <div class="container mb-5" style="background: #000000; border-radius: 14px; margin-top: 100px">
-      <div class="row ">
-        <div class="col-md-6 px-5 pt-5">
-          <span class="text-white">Ready to get started?</span>
-          <h2 class="text-white pt-2">Download the App to start exploring</h2>
-          <p class="pt-3" style="opacity: 0.5; line-height: 30px; font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
-            access to better financial services designed to get you to where you need to be.</p>
-          <div class="d-flex mt-4 mb-5">
-            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
-            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
-          </div>
-        </div>
-        <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
-             data-aos-offset="0">
-          <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
-        </div>
-      </div>
-    </div>
+    <downloadApp />
   </div>
 </template>
 
 <script>
+import downloadApp from "../components/downloadApp.vue";
 export default {
   name: "coin-swap",
+  components: {downloadApp},
 
   mounted() {
     AOS.init({

@@ -277,7 +277,7 @@
 
    <downloadApp />
 
-   <div class=" container">
+   <div class="mt-5 pt-4 container partners">
      <h2 class="text-center ">Our partners</h2>
      <p class="text-center pt-3">We’ve partnered with market leading providers in the crypto market
        to build a <br> solution specifically for the digital economy.</p>
@@ -287,7 +287,7 @@
      </div>
    </div>
 
-   <div class="mt-5 pt-4 container">
+   <div class="mt-5 pt-4 container mb-5 pb-5 partners">
      <h2 class="text-center">
        Grants and Backers</h2>
      <p class="text-center pt-3">We've have received grants, supports and investments by notable blockchain <br> foundations and funds.</p>
@@ -477,6 +477,7 @@ button:hover {
     position: relative;
     left: -40px;
   }
+
 }
 
 .active {

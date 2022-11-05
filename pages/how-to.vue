@@ -2,7 +2,7 @@
     <div class="pt-5  mt-5">
       <h2 class="text-center pt-4 mt-2">BOUNDLESS ACADEMY</h2>
 
-     <div class="container mt-2">
+     <div class="container mt-2 mb-5 pb-5">
        <div class="row justify-content-center mx-auto text-center">
          <div class="col-md-5 mt-5">
            <div class="how-to-card p-4 h-100">
