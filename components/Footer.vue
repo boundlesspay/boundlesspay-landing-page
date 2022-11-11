@@ -91,7 +91,7 @@
 
 
     <div class="container">
-      <div class="pt-4 d-flex half-black small ">
+      <div class="pt-4 d-flex half-black small">
         <span style="opacity: 0.6; color: #ffffff">© Copyright 2022 Boundless Nexus Ltd. (UK) 12527470. All Rights Reserved.</span>
 
         <div class="ml-4">

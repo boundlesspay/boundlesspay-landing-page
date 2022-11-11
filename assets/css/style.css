@@ -156,6 +156,15 @@ button:hover {
 
 }
 
+.btn:focus, .btn.focus {
+  outline: none!important;
+}
+.btn:focus, .btn.focus {
+  outline: 0!important;
+  box-shadow: none!important;
+}
+
+
 .card-box {
   box-shadow: 8px 8px 60px rgba(0, 0, 0, 0.07);
   border-radius: 12px;
