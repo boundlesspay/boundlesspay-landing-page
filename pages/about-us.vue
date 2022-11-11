@@ -28,11 +28,11 @@
           </div>
 
           <div class="col-md-6 pt-lg-5 mt-5 px-3 px-lg-5">
-            <h2 class="mt-lg-4 pt-3">Our Values</h2>
+            <h2 class="mt-lg-4 pt-3"  >Our Mission</h2>
 
-            <p>Our values are the bedrock for all that we do at Bitnob - And that’s why we have 5 Values that form the basis of
-              our identity, and guide our interactions with customers,
-              investors, stakeholders and the general public. These values are Low Ego, Ownership, Grit, Integrity and Crazy.</p>
+            <p class="pt-3"  data-aos="fade-left" data-aos-delay="120">Our vision is to Build a top digital payment solution company that will eliminate barrier in crypto-fiat
+              transactions and made Blockchain based payment accessible to everyone globally. </p>
+
           </div>
 
         </div>
@@ -40,11 +40,10 @@
         <div class="row mt-5 pt-lg-4">
 
           <div class="col-md-5 mr-4 pt-lg-5 mt-5 justify-content-end ml-auto">
-            <h2 class="mt-lg-4 pt-3"  data-aos="fade-left" data-aos-delay="20">Our Mission</h2>
+            <h2 class="mt-lg-4 pt-3" data-aos="fade-left" data-aos-delay="20">Our Values</h2>
 
-            <p class="pt-3"  data-aos="fade-left" data-aos-delay="120">Our mission is to bring deep liquidity, excellent service and better price
-              discovery to
-              the market. With a focus on customqer satisfaction, we want to provide you <w></w>ith the smoothest trading experience in the market.e</p>
+            <p>Our Mission is to achive financial inclusion of the
+              unbanked and expose the banked to opportunities in the Blockchain industry. </p>
           </div>
 
           <div class="col-md-6 mt-4 justify-content-end ml-auto ">
