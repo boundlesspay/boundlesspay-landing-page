@@ -27,7 +27,7 @@
             <img src="~assets/img/Rectangle 232.png"  class="img-fluid" width="500" alt="">
           </div>
 
-          <div class="col-md-6 pt-lg-5 mt-5 px-3 px-lg-5">
+          <div class="col-md-6 pt-lg-5 mt-5 px-4 px-lg-5">
             <h2 class="mt-lg-4 pt-3"  >Our Mission</h2>
 
             <p class="pt-3"  data-aos="fade-left" data-aos-delay="120">Our vision is to Build a top digital payment solution company that will eliminate barrier in crypto-fiat

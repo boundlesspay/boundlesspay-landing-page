@@ -88,9 +88,15 @@
       </div>
     </div>
 
+
+
     <div class="container">
       <div class="pt-4 d-flex half-black small ">
         <span style="opacity: 0.6; color: #ffffff">© Copyright 2022 Boundless Nexus Ltd. (UK) 12527470. All Rights Reserved.</span>
+
+        <div class="ml-4">
+          <a href="https://www.trustpilot.com/review/boundlesspay.com"><img src="~assets/img/logo-white.svg" class="img-fluid mt-n1" width="120" alt=""></a>
+        </div>
       </div>
 
       <div class="d-lg-flex half-black justify-content-end ml-auto mt-lg-n3 pb-5">
