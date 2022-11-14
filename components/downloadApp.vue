@@ -22,7 +22,9 @@
 
 <script>
 export default {
-  name: "download-app"
+  name: "download-app",
+
+  
 }
 </script>
 

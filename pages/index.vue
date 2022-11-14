@@ -20,8 +20,9 @@
          </div>
 
          <div class="col-md-5 wrapper">
-           <div class="swirl mt-n2">
-             <img src="~assets/img/landing-page-img.png" class="ml-lg-n4 mt-lg-n4 img-mobile" width="550" alt="">
+           <div class="swirl mt-n5">
+             <img src="~assets/img/PNG-01.png" class="ml-lg-n4 img-mobile" width="550" alt="">
+<!--             <img src="~assets/img/landing-page-img.png" class="ml-lg-n4 mt-lg-n4 img-mobile" width="550" alt="">-->
              <img src="~assets/img/underbackground.png" class="under-img" alt="">
            </div>
          </div>
