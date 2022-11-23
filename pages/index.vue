@@ -290,7 +290,7 @@
    <div class="mt-5 pt-4 container mb-5  partners">
      <h2 class="text-center">
        Grants and Backers</h2>
-     <p class="text-center pt-3">We've have received grants, supports and investments by notable blockchain <br> foundations and funds.</p>
+     <p class="text-center pt-3">We have received grants, supports and investments by notable blockchain <br> foundations and funds.</p>
 
      <div class="d-flex justify-content-center mx-auto">
        <img src="~assets/img/Grants-support.png" class="img-fluid mt-n2" width="1000" alt="">
