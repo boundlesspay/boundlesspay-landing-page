@@ -8,7 +8,7 @@
             <div class="col-12 col-sm-12">
               <div class="">
                 <div>
-                  <img loading="lazy" src="~/assets/img/Bpay-logo.png" width="288px" class="img-fluid ml-n4" alt="">
+                  <img loading="lazy" src="~/assets/img/Logo (primary).png" width="288px" class="img-fluid ml-n4" alt="">
                 </div>
               </div>
               <div class=" mt-4" style="color: #ffffff; opacity: 0.6; font-size: 14px">
