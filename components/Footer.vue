@@ -13,7 +13,7 @@
               </div>
               <div class=" mt-4" style="color: #ffffff; opacity: 0.6; font-size: 14px">
                 <p>403 Oxford Building, Jumeriah Village Circle (JVC), Dubai, United Arab Emirates.</p>
-                <p>6th Floor 2 Kingdom Street, London, United Kingdom, W2 6JP</p>
+                <p>1st Floor 2 182 - 184 Edgware Road London, W2 2DS</p>
               </div>
 
              <div class="d-flex mt-4">
