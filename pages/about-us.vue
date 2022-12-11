@@ -6,7 +6,7 @@
           <h1>Welcome to the World <br class="d-none d-sm-block"> of Global Remittances</h1>
           <p class="pt-2">Boundlesspay is a secure application that turns your cell-phone into a mobile bank.
             Its pre-installed digital wallet and debit card enables storing and spending of digital currencies across merchants globally. In addition, you can access crypto loans, pay utilities, invest in digital currencies and have
-            \access to other amazing decentralised finance features in one single app.</p>
+            access to other amazing decentralised finance features in one single app.</p>
           <div class="d-flex mt-4 mb-5">
             <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
             <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </a>
