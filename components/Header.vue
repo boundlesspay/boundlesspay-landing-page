@@ -99,7 +99,7 @@
 
                 <div>
                   <a href="https://app.boundlesspay.com/get-started" target="https://app.boundlesspay.com/get-started"  class="mr-4 pt-n5 text-white">
-                    <button class="button  py-2 w-100 mb-2 mt-1" style="border: 0.5px solid #FFFFFF; border-radius: 4px;">Sign in</button>
+                    <button class="button  py-2 w-100 mb-2 mt-1" style="border: 0.5px solid #FFFFFF; border-radius: 4px;">Sign up</button>
                   </a>
                   <!--                <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096">-->
                   <!--                  <button class="button btn-1 py-2 w-100 mb-2 mt-1" style="border-radius: 20px;">Download on iOS</button>-->
