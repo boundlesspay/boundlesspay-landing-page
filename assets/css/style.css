@@ -80,7 +80,7 @@ h1, h4, h2, h3, h5, h6{
 
 @font-face {
   font-family: "Bold";
-  src: url("../boundlesspay-web-app/assets/fonts/SF-Pro-Rounded-Bold.otf");
+  src: url("../fonts/SF-Pro-Rounded-Bold.otf");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -88,7 +88,7 @@ h1, h4, h2, h3, h5, h6{
 
 @font-face {
   font-family: "semi-Bold";
-  src: url("../boundlesspay-web-app/assets/fonts/SF-Pro-Rounded-Medium.otf");
+  src: url("../fonts/SF-Pro-Rounded-Medium.otf");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
