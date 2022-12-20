@@ -92,13 +92,13 @@
 
           <b-navbar-nav class="ml-auto  my-lg-0 order-0 top">
             <div class="mt-n3  d-flex align-items-center justify-content-between mt-lg-0">
-                          <a href="#"  class="mr-4 pt-n5 text-white">
+                          <a href="https://app.boundlesspay.com/login" target="https://app.boundlesspay.com/login"  class="mr-4 pt-n5 text-white">
                             Log in
                           </a>
               <div>
 
                 <div>
-                  <a href="#"  class="mr-4 pt-n5 text-white">
+                  <a href="https://app.boundlesspay.com/get-started" target="https://app.boundlesspay.com/get-started"  class="mr-4 pt-n5 text-white">
                     <button class="button  py-2 w-100 mb-2 mt-1" style="border: 0.5px solid #FFFFFF; border-radius: 4px;">Sign in</button>
                   </a>
                   <!--                <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096">-->
