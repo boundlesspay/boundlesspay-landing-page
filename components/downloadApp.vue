@@ -13,7 +13,7 @@
       </div>
       <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
            data-aos-offset="0">
-        <img src="~assets/img/mockup for footer.png" alt=""  class="img-fluid img-top mt-n4">
+        <img src="~assets/img/mockup-for-footer.png" alt="" class="img-fluid img-top mt-n4">
 <!--        <img src="~assets/img/iphone-14 1.png" alt="" width="390" class="img-fluid img-top mt-n5 ">-->
       </div>
     </div>
