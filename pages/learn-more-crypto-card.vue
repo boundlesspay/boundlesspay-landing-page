@@ -8,9 +8,9 @@
           <h1>Pay for Everything You <br class="d-none d-sm-block"> Need With boundlesspay Crypto Card </h1>
           <p class="pt-2">Experience diverse possiblities and spend without <br class="d-none d-sm-block"> limits with your BoundlessPay Crypto Card. </p>
           <div class="d-lg-flex mt-4 pt-2 mb-5">
-            <div>
+            <a href="https://app.boundlesspay.com/login" target="https://app.boundlesspay.com/login">
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Get it On Web</button>
-            </div>
+            </a>
             <div class="d-flex ml-lg-3 mb-5 top">
               <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/mobile-app-black.svg" class="img-fluid" alt=""> </a>
               <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/google-store-black.svg" class="img-fluid" alt=""> </a>
@@ -95,29 +95,14 @@
       </div>
     </div>
 
-    <div class="container mb-5" style="background: #000000; border-radius: 14px; margin-top: 100px">
-      <div class="row ">
-        <div class="col-md-6 px-5 pt-5">
-          <span class="text-white">Ready to get started?</span>
-          <h2 class="text-white pt-2">Download the App to start exploring</h2>
-          <p class="pt-3" style="opacity: 0.5; line-height: 30px; font-size: 16px; color: #FFFFFF;">Explore a world of boundless opportunities with BoundlessPay. Get unlimited
-            access to better financial services designed to get you to where you need to be.</p>
-          <div class="d-flex mt-4 mb-5">
-            <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
-            <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
-          </div>
-        </div>
-        <div class="col-md-5 pb-5 justify-content-end ml-auto" data-aos="fade-left" data-aos-easing="ease-in-back"
-             data-aos-offset="0">
-          <img src="~assets/img/Dark-mode.png" alt="" width="390" class="img-fluid img-top mt-n5 ">
-        </div>
-      </div>
-    </div>
+    <downloadApp />
   </div>
 </template>
 
 <script>
+import downloadApp from "../components/downloadApp.vue";
 export default {
+  components: {downloadApp},
   name: "coin-swap",
 
   mounted() {
