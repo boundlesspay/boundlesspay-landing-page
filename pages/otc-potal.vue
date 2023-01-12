@@ -8,7 +8,7 @@
           <h1 class="mt-4">OTC Portal </h1>
           <p class="pt-2">Trade in large blocks with <br class="d-none d-sm-block"> competitive rates  </p>
           <div class="d-lg-flex mt-4 pt-2 mb-5">
-            <a href="https://app.boundlesspay.com/login" target="https://app.boundlesspay.com/login">
+            <a href="/contact-us" >
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Contact Us</button>
             </a>
 
