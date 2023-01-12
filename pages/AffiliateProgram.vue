@@ -8,10 +8,10 @@
           <h1>BoundlessPay Affiliate <br  class="d-none d-sm-block"> Program </h1>
           <p>Earn up to $1000 monthly plus 40% of your <br  class="d-none d-sm-block"> referral’s trading fees</p>
           <div class="d-flex mt-4 mb-5">
-            <a href="https://boundlesspay.com/wp-content/uploads/2022/04/Pitch-Deck-1.pdf" target="https://boundlesspay.com/wp-content/uploads/2022/04/Pitch-Deck-1.pdf">
+            <a href="#" >
               <button class="btn text-white" style="background: #000;border-radius: 4px;">Get rewards</button>
             </a>
-            <a href="https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/tree/main/BoundlessPay" target="https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/tree/main/BoundlessPay" class="ml-2">
+            <a href="#"  class="ml-2">
               <button class="btn" style="border: 0.5px solid #000000; border-radius: 4px;">
                 Learn more
               </button>
