@@ -21,7 +21,7 @@
       </div>
     </div>
 
-    <div class="container mt-5 pt-4">
+    <div class="container mt-5 pt-5">
       <div class="row justify-content-center mx-auto">
         <div class="col-md-4">
           <div class="text-left">
@@ -55,7 +55,7 @@
     <div class="container pt-4 mb-5 home">
       <h2 class="heading mt-5 pt-5 text-center " style="font-size: 38px;">Frequently Asked Questions</h2>
       <div class="row">
-        <div class=" mt-5">
+        <div class=" mt-5 pt-4 mb-5">
           <div class="accordion" id="accordionExample">
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingOne">
