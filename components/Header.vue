@@ -27,7 +27,7 @@
                     menu-class="position-absolute notification-dropdown"
                     no-caret>
                     <template slot="button-content">
-                      <div class="d-flex ">
+                      <div class="d-flex">
                         <div class="text-white" style="font-size: 16px">
                           Products
                         </div>
@@ -36,15 +36,15 @@
                         </div>
                       </div>
                     </template>
-                    <div class="dropdown_">
+                    <div class="dropdown_ mt-3">
                       <b-dropdown-item to="/secure-crypto-cards">
                         <div class="d-flex">
                           <div>
                             <img src="~assets/img/coin-swap-img.svg" alt="">
                           </div>
                           <div class="ml-3 mt-n1">
-                            <div style="font-size: 19px">Secure Crypto Cards</div>
-                            <span>Recieve payments from anywhere and <br>
+                            <div style="font-size: 17px">Secure Crypto Cards</div>
+                            <span style="color: #000000; opacity: 0.8; font-size: 13px">Recieve payments from anywhere and <br>
                           convert to cryptocurrencies or stable coins</span>
                           </div>
                         </div>
@@ -56,8 +56,8 @@
                             <img src="~assets/img/crypto-card-icon.svg" alt="">
                           </div>
                           <div class="ml-3 mt-n1">
-                            <div style="font-size: 19px">Currency swap</div>
-                            <span>Make exclusive payments online with your virtual <br> crypto cards</span>
+                            <div style="font-size: 17px">Currency swap</div>
+                            <span style="color: #000000; opacity: 0.8; font-size: 13px">Make exclusive payments online with your virtual <br> crypto cards</span>
                           </div>
                         </div>
                       </b-dropdown-item>
@@ -68,8 +68,20 @@
                             <img src="~assets/img/transfer-money-icon.svg" alt="">
                           </div>
                           <div class="ml-3 mt-n1">
-                            <div style="font-size: 19px">Money Transfer</div>
-                            <span>Send money globally using crypto.</span>
+                            <div style="font-size: 17px">Money Transfer</div>
+                            <span style="color: #000000; opacity: 0.8; font-size: 13px"> Send money globally using crypto.</span>
+                          </div>
+                        </div>
+                      </b-dropdown-item>
+
+                      <b-dropdown-item to="/otc-potal">
+                        <div class="d-flex mt-3 mb-3">
+                          <div>
+                            <img src="~assets/img/otc-trading.svg" alt="">
+                          </div>
+                          <div class="ml-3 mt-n1">
+                            <div style="font-size: 17px">OTC Trading</div>
+                            <span style="color: #000000; opacity: 0.8; font-size: 13px">Trade in large blocks at competitive rate</span>
                           </div>
                         </div>
                       </b-dropdown-item>

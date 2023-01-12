@@ -79,7 +79,7 @@
 
         <img src="~assets/img/line.svg" class="img-fluid pt-2 center-img1 d-none d-sm-block" width="300" alt="">
 
-        <div class="col-md-4 top" >
+        <div class="col-md-4 top">
           <div class=" h-100">
             <img src="~assets/img/Group 300.png" class="img-fluid pt-2" width="65" alt="">
             <h4 class="pt-4 font-weight-bold">Order the card</h4>
