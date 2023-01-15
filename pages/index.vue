@@ -17,6 +17,15 @@
              <a href="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay" target="https://play.google.com/store/apps/details?id=com.bitfxt.boundlesspay"><img src="~assets/img/Mobile-app-store.svg" class="img-fluid" alt=""> </a>
              <a href="https://apps.apple.com/ng/app/boundlesspay/id1598547096" target="https://apps.apple.com/ng/app/boundlesspay/id1598547096" class="ml-2"><img src="~assets/img/app-store.svg" class="img-fluid" alt=""> </a>
            </div>
+
+           <div class="col-11 ml-n3">
+             <div style="background: rgba(255, 255, 255, 0.12); border-radius: 20px;" class="p-2 ">
+               <nuxt-link to="/affiliateprogram" class="text-decoration-none ">
+                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto">Join the BoundlessPay Affiliate program for a chance to win up to $1000 monthly
+                   <img src="~assets/img/Arrow 1.svg" class="img-fluid ml-2"></div>
+               </nuxt-link>
+             </div>
+           </div>
          </div>
 
          <div class="col-md-5 wrapper">
@@ -24,7 +33,10 @@
              <img src="~assets/img/landing-page-img.png" class="ml-lg-n4 mt-lg-n4 img-mobile" width="550" alt="">
              <img src="~assets/img/underbackground.png" class="under-img" alt="">
            </div>
+
          </div>
+
+
        </div>
      </div>
    </section>
@@ -392,7 +404,13 @@ button {
 
 }
 
-
+.hover-item {
+  transition: 0.3s;
+}
+.hover-item:hover {
+  transition: all .5s;
+  transform : translateX(10px);
+}
 
 .btn-4::before {
   height: 100%;

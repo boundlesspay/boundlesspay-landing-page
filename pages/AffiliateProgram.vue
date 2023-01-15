@@ -1,14 +1,14 @@
 <template>
   <div>
     <div class="container px-5 coin-swap mt-lg-3">
-      <div class="row justify-content-center mx-auto">
+      <div class="row ">
         <div class="col-md-6 mt-5 pt-lg-5 px-lg-4" data-aos="fade-up"
              data-aos-duration="2000" data-aos-offset="300"
              data-aos-easing="ease-in-sine">
           <h1>BoundlessPay Affiliate <br  class="d-none d-sm-block"> Program </h1>
-          <p>Earn up to $1000 monthly plus 40% of your <br  class="d-none d-sm-block"> referral’s trading fees</p>
+          <p>Earn up to $1000 monthly plus 40% of your  referral’s <br  class="d-none d-sm-block"> trading fees</p>
           <div class="d-flex mt-4 mb-5">
-            <a href="#" >
+            <a href="#">
               <button class="btn text-white" style="background: #000;border-radius: 4px;">Get rewards</button>
             </a>
             <a href="#"  class="ml-2">
@@ -101,54 +101,54 @@
       </div>
     </div>
 
-    <div class="container mt-5 pt-lg-5">
-      <div class="row">
-        <div class="col-md-5">
-          <h2>Benefits of participating in the Program</h2>
+<!--    <div class="container mt-5 pt-lg-5">-->
+<!--      <div class="row">-->
+<!--        <div class="col-md-5">-->
+<!--          <h2>Benefits of participating in the Program</h2>-->
 
-          <img src="~assets/img/benefits.png" class="img-fluid ml-lg-n5 ml-n3" alt="">
-        </div>
+<!--          <img src="~assets/img/benefits.png" class="img-fluid ml-lg-n5 ml-n3" alt="">-->
+<!--        </div>-->
 
-        <div class="col-md-6 mt-5 pt-lg-5 ">
-          <div class="d-flex mt-3 benefit">
-            <img src="~assets/img/checks.svg" class="img-fluid" alt="">
+<!--        <div class="col-md-6 mt-5 pt-lg-5 ">-->
+<!--          <div class="d-flex mt-3 benefit">-->
+<!--            <img src="~assets/img/checks.svg" class="img-fluid" alt="">-->
 
-            <p class="ml-3 pt-3">Earn a $1 one-time commission when your referral subscribes to a virtual card.</p>
-          </div>
+<!--            <p class="ml-3 pt-3">Earn a $1 one-time commission when your referral subscribes to a virtual card.</p>-->
+<!--          </div>-->
 
-          <div class="d-flex benefit">
-            <img src="~assets/img/checks.svg" class="img-fluid" alt="">
+<!--          <div class="d-flex benefit">-->
+<!--            <img src="~assets/img/checks.svg" class="img-fluid" alt="">-->
 
-            <p class="ml-3 pt-3">Affiliate referral link that allows you to earn 40% commission from the total fees charged from your referrals.</p>
-          </div>
+<!--            <p class="ml-3 pt-3">Affiliate referral link that allows you to earn 40% commission from the total fees charged from your referrals.</p>-->
+<!--          </div>-->
 
-          <div class="d-flex benefit">
-            <img src="~assets/img/checks.svg" class="img-fluid" alt="">
+<!--          <div class="d-flex benefit">-->
+<!--            <img src="~assets/img/checks.svg" class="img-fluid" alt="">-->
 
-            <p class="ml-3 pt-3">The top 20 affiliates will share from a minimum pool of $1000 monthly (T&C applied)</p>
-          </div>
+<!--            <p class="ml-3 pt-3">The top 20 affiliates will share from a minimum pool of $1000 monthly (T&C applied)</p>-->
+<!--          </div>-->
 
-          <div class="d-flex benefit">
-            <img src="~assets/img/checks.svg" class="img-fluid" alt="">
+<!--          <div class="d-flex benefit">-->
+<!--            <img src="~assets/img/checks.svg" class="img-fluid" alt="">-->
 
-            <p class="ml-3 pt-3"> Become part of Nexus Universe, a core community of like-minded affiliates across Africa.</p>
-          </div>
+<!--            <p class="ml-3 pt-3"> Become part of Nexus Universe, a core community of like-minded affiliates across Africa.</p>-->
+<!--          </div>-->
 
-          <div class="d-flex  benefit">
-            <img src="~assets/img/checks.svg" class="img-fluid" alt="">
+<!--          <div class="d-flex  benefit">-->
+<!--            <img src="~assets/img/checks.svg" class="img-fluid" alt="">-->
 
-            <p class="ml-3 pt-3">Access to Boundlesspay branded items (polos and other gift packs)</p>
-          </div>
+<!--            <p class="ml-3 pt-3">Access to Boundlesspay branded items (polos and other gift packs)</p>-->
+<!--          </div>-->
 
-          <div class="d-flex benefit">
-            <img src="~assets/img/checks.svg" class="img-fluid" alt="">
+<!--          <div class="d-flex benefit">-->
+<!--            <img src="~assets/img/checks.svg" class="img-fluid" alt="">-->
 
-            <p class="ml-3 pt-3">The fastest way to get the latest information about BoundlessPay!</p>
-          </div>
+<!--            <p class="ml-3 pt-3">The fastest way to get the latest information about BoundlessPay!</p>-->
+<!--          </div>-->
 
-        </div>
-      </div>
-    </div>
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
 
 
 

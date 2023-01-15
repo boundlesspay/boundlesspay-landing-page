@@ -2,11 +2,11 @@
   <div>
     <div class="container px-lg-5 coin-swap mt-lg-3">
       <div class="row justify-content-center mx-auto">
-        <div class="col-md-6 mt-lg-5 pt-lg-5 mt-3 px-lg-4 px-2" data-aos="fade-up"
+        <div class="col-md-5 mt-lg-5 pt-lg-5 ml-5 mt-3 justify-content-center mx-auto" data-aos="fade-up"
              data-aos-duration="2000" data-aos-offset="300"
              data-aos-easing="ease-in-sine">
-          <h1 class="mt-4">OTC Portal </h1>
-          <p class="pt-2">Trade in large blocks with <br class="d-none d-sm-block"> competitive rates  </p>
+          <h1 class="mt-5">OTC Portal </h1>
+          <p class="pt-2">Trade in large blocks with  competitive <br class="d-none d-sm-block"> rates  </p>
           <div class="d-lg-flex mt-4 pt-2 mb-5">
             <a href="/contact-us" >
               <button class="btn text-white" style="background: #003399;border-radius: 4px;">Contact Us</button>
@@ -15,7 +15,7 @@
           </div>
         </div>
 
-        <div class="col-md-5 mt-4">
+        <div class="col-md-6 mt-4">
           <img src="~assets/img/potal-img.png" class="img-fluid" alt="">
         </div>
       </div>

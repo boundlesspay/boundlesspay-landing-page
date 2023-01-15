@@ -43,6 +43,9 @@
                 <p>
                   <n-link to="/contact-us">Contact us</n-link>
                 </p>
+                <p>
+                  <n-link to="/affiliateProgram">Affiliate Program</n-link>
+                </p>
               </div>
             </div>
 
