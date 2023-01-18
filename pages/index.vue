@@ -1,15 +1,15 @@
 <template>
  <div>
-   <section class="home-top">
+   <section class="home-top_">
      <div class="container pb-5">
        <div class="row">
-<!--         animate__delay-2s-->
+
          <div class="col-md-7 mt-lg-5 content"  data-aos="fade-up"
               data-aos-duration="2000" data-aos-offset="300"
               data-aos-easing="ease-in-sine">
 
            <h1 class="text-white" style="font-size: 57px"><span class="ityped"></span><br>
-            Seamlessly
+             Seamlessly
            </h1>
 
            <p class="text-white pt-2 anim1" style="font-size: 20px">A digital banking application for cross border collections, <br> payments and settlements</p>
@@ -21,8 +21,8 @@
            <div class="col-11 ml-n3">
              <div style="background: rgba(255, 255, 255, 0.12); border-radius: 20px;" class="p-2 ">
                <nuxt-link to="/affiliateprogram" class="text-decoration-none ">
-                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto">Join the BoundlessPay Affiliate program for a chance to win up to $1000 monthly
-                   <img src="~assets/img/Arrow 1.svg" class="img-fluid ml-2"></div>
+                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto"> <a hr="/affiliateprogram" class="text-decoration-none">Join the BoundlessPay Affiliate program for a chance to win up to $1000 monthly
+                   <img src="~assets/img/Arrow 1.svg" class="img-fluid ml-2"></a> </div>
                </nuxt-link>
              </div>
            </div>
@@ -31,7 +31,7 @@
          <div class="col-md-5 wrapper">
            <div class="swirl mt-n2">
              <img src="~assets/img/landing-page-img.png" class="ml-lg-n4 mt-lg-n4 img-mobile" width="550" alt="">
-             <img src="~assets/img/underbackground.png" class="under-img" alt="">
+             <img src="~assets/img/underbackground.png" class="under-img d-none" alt="">
            </div>
 
          </div>
@@ -40,6 +40,8 @@
        </div>
      </div>
    </section>
+
+
 
 
    <div class="container mt-4 pt-3">
@@ -439,7 +441,7 @@ button:hover {
 }
 
 
-.home-top {
+.home-top_ {
   background: #000000;
   padding-top: 150px;
 }

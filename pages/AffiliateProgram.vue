@@ -8,10 +8,10 @@
           <h1>BoundlessPay Affiliate <br  class="d-none d-sm-block"> Program </h1>
           <p>Earn up to $1000 monthly plus 40% of your  referral’s <br  class="d-none d-sm-block"> trading fees</p>
           <div class="d-flex mt-4 mb-5">
-            <a href="https://app.boundlesspay.com/login" target="https://app.boundlesspay.com/login">
-              <button class="btn text-white" style="background: #000;border-radius: 4px;">Get rewards</button>
+            <a href="https://app.boundlesspay.com/get-started" target="https://app.boundlesspay.com/get-started">
+              <button class="btn text-white" style="background: #000;border-radius: 4px;">Sing up</button>
             </a>
-            <a href="https://app.boundlesspay.com/get-started"  target="https://app.boundlesspay.com/get-started"  class="ml-2">
+            <a href="https://t.me/BoundlessPay_affiliates"  target="https://t.me/BoundlessPay_affiliates"  class="ml-2">
               <button class="btn" style="border: 0.5px solid #000000; border-radius: 4px;">
                 Learn more
               </button>
