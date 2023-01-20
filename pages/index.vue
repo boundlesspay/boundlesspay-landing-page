@@ -21,8 +21,8 @@
            <div class="col-11 ml-n3">
              <div style="background: rgba(255, 255, 255, 0.12); border-radius: 20px;" class="p-2 ">
                <nuxt-link to="/affiliateprogram" class="text-decoration-none ">
-                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto"> <a hr="/affiliateprogram" class="text-decoration-none">Join the BoundlessPay Affiliate program for a chance to win up to $1000 monthly
-                   <img src="~assets/img/Arrow 1.svg" class="img-fluid ml-2"></a> </div>
+                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto"> Join the BoundlessPay Affiliate program for a chance to win up to $1000 monthly
+                   <img src="~assets/img/Arrow 1.svg" class="img-fluid ml-2"> </div>
                </nuxt-link>
              </div>
            </div>
@@ -36,12 +36,9 @@
 
          </div>
 
-
        </div>
      </div>
    </section>
-
-
 
 
    <div class="container mt-4 pt-3">
@@ -259,6 +256,7 @@
 
 <!--   <growMoney />-->
 
+
    <div class="container mt-5 pt-5">
      <div class="row">
        <div class="col-md-6  img-ani">
@@ -328,10 +326,9 @@ export default {
   },
 
   mounted() {
-
-    $(function () {
-      $("#tabs").timerTabPanel({timeInterval:1500});
-    });
+    // $(function () {
+    //   $("#tabs").timerTabPanel({timeInterval:1500});
+    // });
 
     window.ityped.init(document.querySelector('.ityped'),{
       strings: ['Send','Receive','Swap', 'Remit', 'Earn', 'Pay',],
@@ -342,9 +339,6 @@ export default {
       offset: 100,
       duration: 1000,
     });
-
-
-
 
   },
 
@@ -524,6 +518,8 @@ button:hover {
     transform: translatey(0px);
   }
 }
+
+
 
 
 

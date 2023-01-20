@@ -2,6 +2,11 @@
   <div>
     <div class="container mt-5 pt-5">
       <div class="row">
+
+<!--        <h1 class="text-dark" style="font-size: 57px"><span class="ityped"></span><br>-->
+<!--          Seamlessly-->
+<!--        </h1>-->
+
         <div class="col-md-6 mt-5 pt-lg-5 px-lg-4 px-3" data-aos="fade-up"
              data-aos-duration="2000" data-aos-offset="300"
              data-aos-easing="ease-in-sine">
@@ -149,6 +154,7 @@ import downloadApp from "../components/downloadApp";
 export default {
   components: {downloadApp},
   mounted() {
+
     AOS.init({
       offset: 100,
       duration: 1000,
