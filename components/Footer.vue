@@ -117,7 +117,7 @@
           <img src="~assets/img/facebook.svg" alt="">
         </a>
 
-        <a href="https://www.linkedin.com/company/boundlesspay/" target="https://www.linkedin.com/company/boundlesspay/">
+        <a href="https://www.linkedin.com/company/boundlesspayofficial/" target="https://www.linkedin.com/company/boundlesspayofficial/">
           <img src="~assets/img/linkden.svg" alt="">
         </a>
 
