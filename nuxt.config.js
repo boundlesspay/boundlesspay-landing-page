@@ -30,7 +30,16 @@ export default {
 
     ],
 
+    "scripts":{
+      "dev":"SET NODE_OPTIONS=--openssl-legacy-provider && nuxt",
+      "build":"SET NODE_OPTIONS=--openssl-legacy-provider && nuxt build",
+      "start":"SET NODE_OPTIONS=--openssl-legacy-provider && nuxt start",
+      "generate":"SET NODE_OPTIONS=--openssl-legacy-provider && nuxt generate"
+    },
+
     script: [
+
+      { src: "https://analytics.google.com/analytics/web/?authuser=1#/a216855746w299032190p258247021/admin/tracking/tracking-code/" },
       { src: "https://code.jquery.com/jquery-1.12.4.min.js" },
       { src: "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" },
       { src: "js/jquery.ttpanel.min.js" },
