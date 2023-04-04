@@ -39,7 +39,7 @@ export default {
 
     script: [
 
-      { src: "https://analytics.google.com/analytics/web/?authuser=1#/a216855746w299032190p258247021/admin/tracking/tracking-code/" },
+      // { src: "https://analytics.google.com/analytics/web/?authuser=1#/a216855746w299032190p258247021/admin/tracking/tracking-code/" },
       { src: "https://code.jquery.com/jquery-1.12.4.min.js" },
       { src: "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" },
       { src: "js/jquery.ttpanel.min.js" },
@@ -54,7 +54,7 @@ export default {
       { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" },
       { src: "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" },
       { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" },
-      { src: "//code.tidio.co/cpvlrseec913qel8amvdv8r60fkwizad.js"},
+      { src: "//code.tidio.co/cpvlrseec913qel8amvdv8r60fkwizad.js"}
 
     ]
   },
@@ -68,7 +68,7 @@ export default {
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
     {src: '~/plugins/global.js', mode: 'client'},
-    {src: '~/plugins/tabs.js', mode: 'client'},
+    {src: '~/plugins/tabs.js', mode: 'client'}
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -76,7 +76,12 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/google-analytics'
   ],
+
+  googleAnalytics: {
+    id: 'UA-216855746-1'
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
