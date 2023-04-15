@@ -295,7 +295,7 @@
        to build a <br> solution specifically for the digital economy.</p>
 
      <div class="d-flex justify-content-center mx-auto">
-       <img src="~assets/img/our-partners.png" class="img-fluid" width="1000" alt="">
+       <img src="~assets/img/partners.png" class="img-fluid" width="1000" alt="">
      </div>
    </div>
 

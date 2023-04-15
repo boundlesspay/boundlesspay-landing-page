@@ -98,7 +98,7 @@
         <span style="opacity: 0.6; color: #ffffff">© Copyright 2022 Boundless Nexus Ltd. (UK) 12527470. All Rights Reserved.</span>
 
         <div class="ml-4">
-          <a href="https://www.trustpilot.com/review/boundlesspay.com"><img src="~assets/img/logo-white.svg" class="img-fluid mt-n1" width="120" alt=""></a>
+          <a href="https://nodo.xyz/discover/boundlesspay" target="https://nodo.xyz/discover/boundlesspay"><img src="~assets/img/nodo.jpg" class="img-fluid mt-n2" width="50" alt=""></a>
         </div>
       </div>
 
