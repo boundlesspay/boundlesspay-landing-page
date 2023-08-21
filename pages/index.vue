@@ -20,10 +20,10 @@
 
            <div class="col-11 ml-n3">
              <div style="background: rgba(255, 255, 255, 0.12); border-radius: 20px;" class="p-2">
-               <nuxt-link to="/affiliateprogram" class="text-decoration-none">
-                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto"> Join the BoundlessPay Affiliate program for a chance to win up to $1000 monthly
+               <a href="https://press.boundlesspay.com/boundlesspay-n1million-august-bounty/" target="https://press.boundlesspay.com/boundlesspay-n1million-august-bounty/" class="text-decoration-none">
+                 <div style="color: #1DBCFF; font-size: 15px" class="d-flex  hover-item justify-content-center mx-auto"> Grab your share of over N1million in rewards by joining the BondlessPay August Bounty 💰💰
                    <img src="~assets/img/Arrow 1.svg" class="img-fluid ml-2"> </div>
-               </nuxt-link>
+               </a>
              </div>
            </div>
          </div>
