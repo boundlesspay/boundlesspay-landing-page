@@ -94,7 +94,7 @@
 <!--                <nuxt-link to="/our-token" class="ml-1 cool-link">Our token</nuxt-link>-->
 <!--              </div>-->
             <div class="d-flex">
-                <a href="https://press.boundlesspay.com/" target="https://press.boundlesspay.com/" class="ml-1 cool-link">Blog</a>
+                <a href="https://news.boundlesspay.com/" target="https://news.boundlesspay.com/" class="ml-1 cool-link">Blog</a>
               </div>
             <div class="d-flex">
                 <nuxt-link to="/how-to" class="ml-1 cool-link">How to</nuxt-link>
